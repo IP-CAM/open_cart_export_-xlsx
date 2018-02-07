@@ -33,8 +33,8 @@
 
                     <div class="col-sm-4">
                         <form action="<?php echo $save?>" method="post" id="form-restore" class="form-horizontal">
-                            <?php print_r($group_atributes_id['session']);?>
-                        <div class="form-group"><?php echo '<pre>';print_r($get_group_atributes)?>
+
+                        <div class="form-group">
                             <select name="attribute_group_id" id="input-status" class="form-control">
                                 <option value=""> </option>
                                 <?php foreach ($get_group_atributes as $group_atributes)  { ?>
@@ -51,46 +51,41 @@
                     </div>
                 </div>
             </div>
+            <?php echo '<pre>'; print_r($group_atributes_id);?>
             <div class="table-responsive">
-
-
                 <table class="table table-bordered table-hover">
                     <thead>
                     <tr>
+                       <?php if (isset($group_atributes_id['atributes_group'][0]['attribute'][0]['product_id'])) { ?>
+                        <td class="text-center">Id продукта</td>
+                        <?php }?>
 
-                    <?php foreach ($group_atributes_id as $attr){
-                        foreach ($attr as $key => $value){
-                                foreach ($value['attribute'] as $item) { ?>
-                        <td class="text-left"><?php echo $item['product_id']; ?></td>
-                        <td class="text-left"><?php echo $item['name']; ?></td>
-
-
-                                            <?php } }}?>
+                        <?php
+                          if (is_array($group_atributes_id) || is_object($group_atributes_id)){
+                                foreach ($group_atributes_id as $attr){
+                                if (is_array($attr) || is_object($attr)){
+                                     foreach ($attr as $value){
+                                        foreach ($value['attribute'] as $item) {
+                        ?>
+                        <td class="text-center"><?php echo $item['name']; ?></td>
+                        <?php }}}}}?>
 
 
 
                     </tr>
                     </thead>
                     <tbody>
-                    <?php if ($uploads) { ?>
-                    <?php foreach ($uploads as $upload) { ?>
-                    <tr>
-                        <td class="text-center"><?php if (in_array($upload['upload_id'], $selected)) { ?>
-                            <input type="checkbox" name="selected[]" value="<?php echo $upload['upload_id']; ?>" checked="checked" />
-                            <?php } else { ?>
-                            <input type="checkbox" name="selected[]" value="<?php echo $upload['upload_id']; ?>" />
-                            <?php } ?></td>
-                        <td class="text-left"><?php echo $upload['name']; ?></td>
-                        <td class="text-left"><?php echo $upload['filename']; ?></td>
-                        <td class="text-right"><?php echo $upload['date_added']; ?></td>
-                        <td class="text-right"><a href="<?php echo $upload['download']; ?>" data-toggle="tooltip" title="<?php echo $button_download; ?>" class="btn btn-info"><i class="fa fa-download"></i></a></td>
-                    </tr>
-                    <?php } ?>
-                    <?php } else { ?>
-                    <tr>
-                        <td class="text-center" colspan="5"><?php echo $text_no_results; ?></td>
-                    </tr>
-                    <?php } ?>
+
+                    <?php
+                          if (is_array($group_atributes_id) || is_object($group_atributes_id)){
+                                foreach ($group_atributes_id as $attr){
+                                if (is_array($attr) || is_object($attr)){
+                                     foreach ($attr as $value){
+                                        foreach ($value['attribute'] as $item) {
+                        ?>
+                    
+                    <td class="text-center"><?php echo $item['text']; ?></td>
+                    <?php }}}}}?>
                     </tbody>
                 </table>
             </div>

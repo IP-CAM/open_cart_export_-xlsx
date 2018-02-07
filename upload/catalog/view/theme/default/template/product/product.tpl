@@ -54,6 +54,7 @@
                   </tr>
                 </thead>
                 <tbody>
+                <?php echo '<pre>'; print_r($attribute_group);?>
                   <?php foreach ($attribute_group['attribute'] as $attribute) { ?>
                   <tr>
                     <td><?php echo $attribute['name']; ?></td>

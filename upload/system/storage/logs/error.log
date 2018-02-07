@@ -996,3 +996,97 @@
 2018-02-07 18:12:03 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 75
 2018-02-07 18:12:08 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 62
 2018-02-07 18:12:08 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 75
+2018-02-07 18:19:42 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 62
+2018-02-07 18:19:42 - PHP Warning:  Illegal string offset 'product_id' in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 64
+2018-02-07 18:19:42 - PHP Warning:  Illegal string offset 'name' in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 65
+2018-02-07 18:19:42 - PHP Warning:  Illegal string offset 'product_id' in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 64
+2018-02-07 18:19:42 - PHP Warning:  Illegal string offset 'name' in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 65
+2018-02-07 18:19:42 - PHP Notice:  Undefined index: product_id in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 64
+2018-02-07 18:19:42 - PHP Notice:  Undefined index: name in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 65
+2018-02-07 18:19:42 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 75
+2018-02-07 18:19:52 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 62
+2018-02-07 18:19:52 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 75
+2018-02-07 18:19:57 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 62
+2018-02-07 18:19:57 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 75
+2018-02-07 18:20:03 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 62
+2018-02-07 18:20:03 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 75
+2018-02-07 18:20:07 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 62
+2018-02-07 18:20:07 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 75
+2018-02-07 18:26:27 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 61
+2018-02-07 18:26:27 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 74
+2018-02-07 18:26:31 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 62
+2018-02-07 18:26:31 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 74
+2018-02-07 18:27:57 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 62
+2018-02-07 18:27:57 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 75
+2018-02-07 18:28:15 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 62
+2018-02-07 18:28:15 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 74
+2018-02-07 18:28:23 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 62
+2018-02-07 18:28:23 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 75
+2018-02-07 18:29:13 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 62
+2018-02-07 18:29:13 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 75
+2018-02-07 18:29:16 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 62
+2018-02-07 18:29:16 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 75
+2018-02-07 18:29:20 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 62
+2018-02-07 18:29:20 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 75
+2018-02-07 18:29:27 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 62
+2018-02-07 18:29:27 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 75
+2018-02-07 18:29:31 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 62
+2018-02-07 18:29:31 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 75
+2018-02-07 18:29:35 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 62
+2018-02-07 18:29:35 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 75
+2018-02-07 18:32:47 - PHP Notice:  Undefined index: product_id in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 61
+2018-02-07 18:33:06 - PHP Notice:  Undefined offset: 0 in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 61
+2018-02-07 18:33:54 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 66
+2018-02-07 18:33:54 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 79
+2018-02-07 18:33:58 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 66
+2018-02-07 18:33:58 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 79
+2018-02-07 18:34:05 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 66
+2018-02-07 18:34:05 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 79
+2018-02-07 18:34:09 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 66
+2018-02-07 18:34:09 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 79
+2018-02-07 18:34:12 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 66
+2018-02-07 18:34:12 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 79
+2018-02-07 18:34:51 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 67
+2018-02-07 18:34:51 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 80
+2018-02-07 18:35:15 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 66
+2018-02-07 18:35:15 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 79
+2018-02-07 18:35:33 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 66
+2018-02-07 18:35:33 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 79
+2018-02-07 18:37:26 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 66
+2018-02-07 18:37:26 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 79
+2018-02-07 18:37:36 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 66
+2018-02-07 18:37:36 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 79
+2018-02-07 18:38:09 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 66
+2018-02-07 18:38:09 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 78
+2018-02-07 18:38:34 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 66
+2018-02-07 18:38:34 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 78
+2018-02-07 18:38:52 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 65
+2018-02-07 18:38:52 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 78
+2018-02-07 18:38:58 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 66
+2018-02-07 18:38:58 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 78
+2018-02-07 18:40:08 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 66
+2018-02-07 18:40:08 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 79
+2018-02-07 18:41:55 - PHP Warning:  Illegal string offset 'attribute' in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 67
+2018-02-07 18:41:55 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 67
+2018-02-07 18:41:55 - PHP Notice:  Undefined index: attribute in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 67
+2018-02-07 18:41:55 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 67
+2018-02-07 18:41:55 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 79
+2018-02-07 18:42:29 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 66
+2018-02-07 18:42:29 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 79
+2018-02-07 18:45:28 - PHP Notice:  Undefined variable: value in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 66
+2018-02-07 18:45:28 - PHP Notice:  Undefined variable: value in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 66
+2018-02-07 18:45:28 - PHP Notice:  Undefined variable: value in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 66
+2018-02-07 18:45:28 - PHP Notice:  Undefined variable: value in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 66
+2018-02-07 18:45:28 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 80
+2018-02-07 18:45:43 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 67
+2018-02-07 18:45:43 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 81
+2018-02-07 18:46:01 - PHP Notice:  Undefined variable: uploads in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 80
+2018-02-07 18:47:46 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 61
+2018-02-07 18:50:06 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 62
+2018-02-07 18:50:59 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 62
+2018-02-07 19:09:31 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 85
+2018-02-07 19:09:31 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 85
+2018-02-07 19:09:31 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 85
+2018-02-07 19:09:31 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 85
+2018-02-07 19:09:31 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 85
+2018-02-07 19:09:31 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 85

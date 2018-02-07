@@ -2,300 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36f4ba52-d656-4d6a-ab6d-de906d470d51" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/upload/admin/controller/tool/export_attr.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/upload/admin/language/english/tool/export_attr.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/upload/admin/view/template/tool/export_attr.tpl" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/admin/controller/common/menu.php" afterPath="$PROJECT_DIR$/upload/admin/controller/common/menu.php" />
-      <change beforePath="$PROJECT_DIR$/upload/admin/controller/tool/export_import.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/admin/controller/tool/intent_edit_price.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/admin/language/en-gb/tool/export_import.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/admin/language/english/common/menu.php" afterPath="$PROJECT_DIR$/upload/admin/language/english/common/menu.php" />
-      <change beforePath="$PROJECT_DIR$/upload/admin/language/english/tool/export_import.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/admin/language/ru-ru/tool/intent_edit_price.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/admin/model/tool/export_import.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/admin/model/tool/intent_edit_price.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/admin/view/image/export-import/loading.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/admin/view/stylesheet/export_import.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/admin/view/template/common/menu.tpl" afterPath="$PROJECT_DIR$/upload/admin/view/template/common/menu.tpl" />
-      <change beforePath="$PROJECT_DIR$/upload/admin/view/template/tool/export_import.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/admin/view/template/tool/intent_edit_price.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/admin/view/template/tool/intent_edit_price_product.twig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/admin/view/template/tool/upload.tpl" afterPath="$PROJECT_DIR$/upload/admin/view/template/tool/upload.tpl" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Autoloader.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/CachedObjectStorage/APC.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/CachedObjectStorage/CacheBase.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/CachedObjectStorage/DiscISAM.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/CachedObjectStorage/ICache.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/CachedObjectStorage/Igbinary.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/CachedObjectStorage/Memcache.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/CachedObjectStorage/Memory.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/CachedObjectStorage/MemoryGZip.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/CachedObjectStorage/MemorySerialized.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/CachedObjectStorage/PHPTemp.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/CachedObjectStorage/SQLite.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/CachedObjectStorage/SQLite3.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/CachedObjectStorage/Wincache.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/CachedObjectStorageFactory.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/CalcEngine/CyclicReferenceStack.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/CalcEngine/Logger.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Calculation.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Calculation/Database.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Calculation/DateTime.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Calculation/Engineering.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Calculation/Exception.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Calculation/ExceptionHandler.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Calculation/Financial.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Calculation/FormulaParser.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Calculation/FormulaToken.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Calculation/Function.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Calculation/Functions.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Calculation/Logical.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Calculation/LookupRef.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Calculation/MathTrig.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Calculation/Statistical.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Calculation/TextData.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Calculation/Token/Stack.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Calculation/functionlist.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Cell.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Cell/AdvancedValueBinder.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Cell/DataType.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Cell/DataValidation.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Cell/DefaultValueBinder.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Cell/ExportImportValueBinder.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Cell/Hyperlink.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Cell/IValueBinder.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Chart.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Chart/Axis.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Chart/DataSeries.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Chart/DataSeriesValues.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Chart/Exception.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Chart/GridLines.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Chart/Layout.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Chart/Legend.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Chart/PlotArea.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Chart/Properties.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Chart/Renderer/PHP Charting Libraries.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Chart/Renderer/jpgraph.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Chart/Title.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Comment.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/DocumentProperties.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/DocumentSecurity.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Exception.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/HashTable.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Helper/HTML.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/IComparable.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/IOFactory.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/NamedRange.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Reader/Abstract.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Reader/CSV.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Reader/DefaultReadFilter.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Reader/Excel2003XML.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Reader/Excel2007/Chart.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Reader/Excel2007/Theme.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Reader/Excel5.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Reader/Excel5/Color.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Reader/Excel5/Color/BIFF5.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Reader/Excel5/Color/BIFF8.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Reader/Excel5/Color/BuiltIn.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Reader/Excel5/ErrorCode.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Reader/Excel5/Escher.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Reader/Excel5/MD5.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Reader/Excel5/RC4.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Reader/Excel5/Style/Border.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Reader/Excel5/Style/FillPattern.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Reader/Exception.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Reader/Gnumeric.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Reader/HTML.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Reader/IReadFilter.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Reader/IReader.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Reader/OOCalc.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Reader/SYLK.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/ReferenceHelper.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/RichText.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/RichText/ITextElement.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/RichText/Run.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/RichText/TextElement.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Settings.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/CodePage.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/Date.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/Drawing.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/Escher.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/Escher/DgContainer.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/Escher/DgContainer/SpgrContainer.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/Escher/DgContainer/SpgrContainer/SpContainer.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/Escher/DggContainer.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/Escher/DggContainer/BstoreContainer.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE/Blip.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/Excel5.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/File.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/Font.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/JAMA/CHANGELOG.TXT" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/JAMA/CholeskyDecomposition.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/JAMA/EigenvalueDecomposition.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/JAMA/LUDecomposition.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/JAMA/Matrix.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/JAMA/QRDecomposition.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/JAMA/SingularValueDecomposition.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/JAMA/utils/Error.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/JAMA/utils/Maths.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/OLE.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/OLE/ChainedBlockStream.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/OLE/PPS.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/OLE/PPS/File.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/OLE/PPS/Root.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/OLERead.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/PCLZip/gnu-lgpl.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/PCLZip/pclzip.lib.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/PCLZip/readme.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/PasswordHasher.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/String.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/TimeZone.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/XMLWriter.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/ZipArchive.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/ZipStreamWrapper.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/trend/bestFitClass.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/trend/exponentialBestFitClass.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/trend/linearBestFitClass.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/trend/logarithmicBestFitClass.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/trend/polynomialBestFitClass.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/trend/powerBestFitClass.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Shared/trend/trendClass.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Style.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Style/Alignment.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Style/Border.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Style/Borders.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Style/Color.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Style/Conditional.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Style/Fill.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Style/Font.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Style/NumberFormat.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Style/Protection.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Style/Supervisor.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Worksheet.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Worksheet/AutoFilter.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Worksheet/AutoFilter/Column.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Worksheet/AutoFilter/Column/Rule.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Worksheet/BaseDrawing.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Worksheet/CellIterator.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Worksheet/Column.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Worksheet/ColumnCellIterator.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Worksheet/ColumnDimension.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Worksheet/ColumnIterator.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Worksheet/Dimension.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Worksheet/Drawing.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Worksheet/Drawing/Shadow.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Worksheet/HeaderFooter.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Worksheet/HeaderFooterDrawing.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Worksheet/MemoryDrawing.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Worksheet/PageMargins.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Worksheet/PageSetup.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Worksheet/Protection.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Worksheet/Row.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Worksheet/RowCellIterator.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Worksheet/RowDimension.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Worksheet/RowIterator.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Worksheet/SheetView.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/WorksheetIterator.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/Abstract.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/CSV.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/Excel2007.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/Excel2007/Chart.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/Excel2007/Comments.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/Excel2007/ContentTypes.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/Excel2007/DocProps.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/Excel2007/Drawing.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/Excel2007/Rels.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/Excel2007/RelsRibbon.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/Excel2007/RelsVBA.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/Excel2007/StringTable.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/Excel2007/Style.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/Excel2007/Theme.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/Excel2007/Workbook.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/Excel2007/Worksheet.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/Excel2007/WriterPart.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/Excel5.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/Excel5/BIFFwriter.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/Excel5/Escher.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/Excel5/Font.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/Excel5/Parser.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/Excel5/Workbook.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/Excel5/Worksheet.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/Excel5/Xf.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/Exception.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/HTML.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/IWriter.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/OpenDocument.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/OpenDocument/Cell/Comment.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/OpenDocument/Content.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/OpenDocument/Meta.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/OpenDocument/MetaInf.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/OpenDocument/Mimetype.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/OpenDocument/Settings.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/OpenDocument/Styles.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/OpenDocument/Thumbnails.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/OpenDocument/WriterPart.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/PDF.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/PDF/Core.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/PDF/DomPDF.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/PDF/mPDF.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/Writer/PDF/tcPDF.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/bg/config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/cs/config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/cs/functions" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/da/config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/da/functions" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/de/config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/de/functions" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/en/uk/config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/es/config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/es/functions" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/fi/config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/fi/functions" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/fr/config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/fr/functions" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/hu/config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/hu/functions" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/it/config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/it/functions" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/nl/config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/nl/functions" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/no/config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/no/functions" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/pl/config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/pl/functions" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/pt/br/config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/pt/br/functions" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/pt/config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/pt/functions" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/ru/config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/ru/functions" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/sv/config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/sv/functions" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/tr/config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/PHPExcel/Classes/PHPExcel/locale/tr/functions" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.currency.1517934867" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.language.1517933560" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.length_class.1.1517933560" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.order_status.1.1517933544" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.stock_status.1.1517933560" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.store.1517936263" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.tax_class.1517933560" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.weight_class.1.1517933560" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/upload/admin/view/template/tool/export_attr.tpl" afterPath="$PROJECT_DIR$/upload/admin/view/template/tool/export_attr.tpl" />
+      <change beforePath="$PROJECT_DIR$/upload/catalog/view/theme/default/template/product/product.tpl" afterPath="$PROJECT_DIR$/upload/catalog/view/theme/default/template/product/product.tpl" />
+      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.order_status.1.1518018604" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.store.1518019928" afterPath="" />
       <change beforePath="$PROJECT_DIR$/upload/system/storage/logs/error.log" afterPath="$PROJECT_DIR$/upload/system/storage/logs/error.log" />
-      <change beforePath="$PROJECT_DIR$/upload/system/storage/logs/ocmod.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/storage/modification/admin/controller/common/menu.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/storage/modification/admin/controller/extension/installer.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/storage/modification/admin/language/english/common/menu.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/storage/modification/admin/view/template/common/menu.tpl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/storage/modification/system/engine/action.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/storage/modification/system/engine/loader.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/storage/modification/system/library/config.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/storage/modification/system/library/language.php" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -321,9 +33,56 @@
       <file leaf-file-name="export_attr.tpl" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/upload/admin/view/template/tool/export_attr.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="64" column="68" lean-forward="false" selection-start-line="64" selection-start-column="68" selection-end-line="64" selection-end-column="68" />
+            <state relative-caret-position="319">
+              <caret line="85" column="20" lean-forward="false" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/upload/catalog/view/theme/default/template/product/product.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="58" column="22" lean-forward="true" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="22" />
+              <folding>
+                <marker date="1518021580962" expanded="true" signature="25425:25432" ph="×" />
+                <marker date="1518021580962" expanded="true" signature="26245:26259" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product_list.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/upload/admin/view/template/catalog/product_list.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1797">
+              <caret line="27" column="7" lean-forward="false" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product_form.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/upload/admin/view/template/catalog/product_form.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="709" column="19" lean-forward="false" selection-start-line="709" selection-start-column="19" selection-end-line="709" selection-end-column="19" />
+              <folding>
+                <element signature="e#1014#1021#1#HTML" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#2;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#2;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#2;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#2;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#3;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#4;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#6;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#5;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#6;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#3;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#7;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#4;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#7;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -332,7 +91,7 @@
         <entry file="file://$PROJECT_DIR$/upload/admin/view/template/tool/upload.tpl">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="85" column="75" lean-forward="true" selection-start-line="85" selection-start-column="14" selection-end-line="85" selection-end-column="75" />
+              <caret line="85" column="75" lean-forward="false" selection-start-line="85" selection-start-column="14" selection-end-line="85" selection-end-column="75" />
               <folding />
             </state>
           </provider>
@@ -352,10 +111,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>table table-bordered table-hover</find>
-      <find>text_no_results</find>
-      <find>colspan=&quot;5&quot;</find>
-      <find>No results</find>
       <find>input-type</find>
       <find>select</find>
       <find>option-value</find>
@@ -380,8 +135,12 @@
       <find>attribute_groups</find>
       <find>getAttributesGroup</find>
       <find>group_atributes_id</find>
-      <find>session_id_group</find>
       <find>tab</find>
+      <find>session_id_group</find>
+      <find>discount</find>
+      <find>id=&quot;discount&quot;</find>
+      <find>colspan</find>
+      <find>#tab-specification</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -399,6 +158,8 @@
         <option value="$PROJECT_DIR$/upload/catalog/controller/product/product.php" />
         <option value="$PROJECT_DIR$/upload/admin/model/tool/export_attr.php" />
         <option value="$PROJECT_DIR$/upload/admin/controller/tool/export_attr.php" />
+        <option value="$PROJECT_DIR$/upload/admin/view/template/catalog/product_form.tpl" />
+        <option value="$PROJECT_DIR$/upload/catalog/view/theme/default/template/product/product.tpl" />
         <option value="$PROJECT_DIR$/upload/admin/view/template/tool/export_attr.tpl" />
       </list>
     </option>
@@ -411,8 +172,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="98" />
-    <option name="y" value="323" />
+    <option name="x" value="58" />
+    <option name="y" value="153" />
     <option name="width" value="1284" />
     <option name="height" value="703" />
   </component>
@@ -447,46 +208,52 @@
               <item name="tz.loc" type="b2602c69:ProjectViewProjectNode" />
               <item name="tz.loc" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="upload" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="catalog" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="tz.loc" type="b2602c69:ProjectViewProjectNode" />
               <item name="tz.loc" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="upload" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="controller" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="tz.loc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tz.loc" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="upload" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="controller" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="tool" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="tz.loc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tz.loc" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="upload" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="catalog" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="tz.loc" type="b2602c69:ProjectViewProjectNode" />
               <item name="tz.loc" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="upload" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="catalog" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="theme" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tz.loc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tz.loc" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="upload" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="catalog" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="theme" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="default" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tz.loc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tz.loc" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="upload" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="catalog" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="theme" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="default" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="template" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="tz.loc" type="b2602c69:ProjectViewProjectNode" />
               <item name="tz.loc" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="upload" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="catalog" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="theme" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="default" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="template" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="tool" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="product" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -527,18 +294,18 @@
       <option name="presentableId" value="Default" />
       <updated>1517946360394</updated>
       <workItem from="1517946363100" duration="10338000" />
-      <workItem from="1517990851518" duration="15101000" />
+      <workItem from="1517990851518" duration="20396000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25439000" />
+    <option name="totallyTimeSpent" value="30734000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20238096" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29285714" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -701,13 +468,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="162" column="10" lean-forward="false" selection-start-line="162" selection-start-column="10" selection-end-line="162" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/admin/view/template/catalog/product_list.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1799">
-          <caret line="27" column="7" lean-forward="false" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -900,15 +660,56 @@
     <entry file="file://$PROJECT_DIR$/upload/admin/view/template/tool/upload.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="85" column="75" lean-forward="true" selection-start-line="85" selection-start-column="14" selection-end-line="85" selection-end-column="75" />
+          <caret line="85" column="75" lean-forward="false" selection-start-line="85" selection-start-column="14" selection-end-line="85" selection-end-column="75" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/admin/view/template/catalog/product_list.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1797">
+          <caret line="27" column="7" lean-forward="false" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/admin/view/template/catalog/product_form.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="709" column="19" lean-forward="false" selection-start-line="709" selection-start-column="19" selection-end-line="709" selection-end-column="19" />
+          <folding>
+            <element signature="e#1014#1021#1#HTML" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#2;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#2;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#2;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#2;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#3;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#4;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#6;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#5;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#6;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#3;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#7;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#4;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#7;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/catalog/view/theme/default/template/product/product.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="58" column="22" lean-forward="true" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="22" />
+          <folding>
+            <marker date="1518021580962" expanded="true" signature="25425:25432" ph="×" />
+            <marker date="1518021580962" expanded="true" signature="26245:26259" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/upload/admin/view/template/tool/export_attr.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="64" column="68" lean-forward="false" selection-start-line="64" selection-start-column="68" selection-end-line="64" selection-end-column="68" />
+        <state relative-caret-position="319">
+          <caret line="85" column="20" lean-forward="false" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
           <folding />
         </state>
       </provider>
