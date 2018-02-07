@@ -66,7 +66,7 @@
                     <?php } else { ?>
                     <a href="<?php echo $sort_filename; ?>"><?php echo $column_filename; ?></a>
                     <?php } ?></td>
-                  <td class="text-right"><?php if ($sort == 'date_added') { ?>
+                  <td class=""><?php if ($sort == 'date_added') { ?>
                     <a href="<?php echo $sort_date_added; ?>" class="<?php echo strtolower($order); ?>"><?php echo $column_date_added; ?></a>
                     <?php } else { ?>
                     <a href="<?php echo $sort_date_added; ?>"><?php echo $column_date_added; ?></a>

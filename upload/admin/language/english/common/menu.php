@@ -7,6 +7,9 @@ $_['text_attribute']                   = 'Attributes';
 $_['text_attribute_group']             = 'Attribute Groups';
 $_['text_backup']                      = 'Backup / Restore';
 $_['text_banner']                      = 'Banners';
+
+$_['text_export_attr']                 = 'Export Attribute';
+
 $_['text_captcha']                     = 'Captcha';
 $_['text_catalog']                     = 'Catalog';
 $_['text_category']                    = 'Categories';
