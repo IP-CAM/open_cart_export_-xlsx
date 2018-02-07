@@ -66,6 +66,7 @@ class ControllerToolExportAttr extends Controller
         $data['group_atributes_id'] =  $this->getAttributesGroup();
 
 
+
         $this->response->setOutput($this->load->view('tool/export_attr.tpl', $data));
     }
 
@@ -77,13 +78,16 @@ class ControllerToolExportAttr extends Controller
 
 public function getAttributesGroup()
 {
+
     if ($this->request->server['REQUEST_METHOD'] == 'POST') {
 
         $this->load->model('tool/export_attr');
 
+       // return $this->model_tool_export_attr->selectGroupAttrId((int) $this->request->post['attribute_group_id']);
         return[
             'session' =>  $this->session->data['attribute_groups'] = $this->request->post['attribute_group_id'],
-            'atributes_group' =>  $this->model_tool_export_attr->getAttributesGroup((int) $this->request->post['attribute_group_id'])
+            //'atributes_group' =>  $this->model_tool_export_attr->getAttributesGroup((int) $this->request->post['attribute_group_id'])
+            'atributes_group' =>  $this->model_tool_export_attr->selectGroupAttrId((int) $this->request->post['attribute_group_id'])
         ];
 
 

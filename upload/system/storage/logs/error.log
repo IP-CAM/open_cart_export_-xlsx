@@ -1090,3 +1090,48 @@
 2018-02-07 19:09:31 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 85
 2018-02-07 19:09:31 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 85
 2018-02-07 19:09:31 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 85
+2018-02-07 20:11:19 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '7'' at line 4<br />Error No: 1064<br />SELECT a.attribute_group_id, a.attribute_id, ad.name FROM oc_oc_attribute AS a
+         INNER JOIN oc_attribute_description AS ad ON (ad.attribute_id = a.attribute_id)  
+             WHERE ag.language_id = '1'
+             AND attribute_group_id = = '7'  in D:\OSPanel\domains\tz.loc\upload\system\library\db\mysqli.php on line 41
+2018-02-07 20:11:19 - PHP Notice:  Trying to get property of non-object in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 61
+2018-02-07 20:11:33 - PHP Notice:  Error: Table 'sandi.oc_oc_attribute' doesn't exist<br />Error No: 1146<br />SELECT a.attribute_group_id, a.attribute_id, ad.name FROM oc_oc_attribute AS a
+         INNER JOIN oc_attribute_description AS ad ON (ad.attribute_id = a.attribute_id)  
+             WHERE ag.language_id = '1'
+             AND attribute_group_id ='7'  in D:\OSPanel\domains\tz.loc\upload\system\library\db\mysqli.php on line 41
+2018-02-07 20:11:33 - PHP Notice:  Trying to get property of non-object in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 61
+2018-02-07 20:12:02 - PHP Notice:  Error: Unknown column 'ag.language_id' in 'where clause'<br />Error No: 1054<br />SELECT a.attribute_group_id, a.attribute_id, ad.name FROM oc_attribute AS a
+         INNER JOIN oc_attribute_description AS ad ON (ad.attribute_id = a.attribute_id)  
+             WHERE ag.language_id = '1'
+             AND attribute_group_id ='7'  in D:\OSPanel\domains\tz.loc\upload\system\library\db\mysqli.php on line 41
+2018-02-07 20:12:02 - PHP Notice:  Trying to get property of non-object in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 61
+2018-02-07 20:15:26 - PHP Notice:  Undefined index: attribute in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 68
+2018-02-07 20:15:26 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 68
+2018-02-07 20:15:26 - PHP Notice:  Undefined index: attribute in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 68
+2018-02-07 20:15:26 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 68
+2018-02-07 20:15:26 - PHP Notice:  Undefined index: attribute in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 68
+2018-02-07 20:15:26 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 68
+2018-02-07 20:15:26 - PHP Notice:  Undefined index: attribute in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 68
+2018-02-07 20:15:26 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 68
+2018-02-07 20:15:26 - PHP Notice:  Undefined index: attribute in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 68
+2018-02-07 20:15:26 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 68
+2018-02-07 20:15:26 - PHP Notice:  Undefined index: attribute in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 68
+2018-02-07 20:15:26 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 68
+2018-02-07 20:15:40 - PHP Notice:  Undefined index: attribute in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 68
+2018-02-07 20:15:40 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 68
+2018-02-07 20:15:40 - PHP Notice:  Undefined index: attribute in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 68
+2018-02-07 20:15:40 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 68
+2018-02-07 20:15:40 - PHP Notice:  Undefined index: attribute in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 68
+2018-02-07 20:15:40 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 68
+2018-02-07 20:15:40 - PHP Notice:  Undefined index: attribute in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 68
+2018-02-07 20:15:40 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 68
+2018-02-07 20:15:40 - PHP Notice:  Undefined index: attribute in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 68
+2018-02-07 20:15:40 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 68
+2018-02-07 20:15:40 - PHP Notice:  Undefined index: attribute in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 68
+2018-02-07 20:15:40 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 68
+2018-02-07 20:17:38 - PHP Notice:  Undefined variable: item in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 65
+2018-02-07 20:17:38 - PHP Notice:  Undefined variable: item in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 65
+2018-02-07 20:17:38 - PHP Notice:  Undefined variable: item in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 65
+2018-02-07 20:17:38 - PHP Notice:  Undefined variable: item in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 65
+2018-02-07 20:17:38 - PHP Notice:  Undefined variable: item in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 65
+2018-02-07 20:17:38 - PHP Notice:  Undefined variable: item in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 65

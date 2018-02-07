@@ -51,6 +51,19 @@ class ModelToolExportAttr extends Model {
         return $product_attribute_group_data;
     }
 
+    public function selectGroupAttrId ($attribute_group_id)
+    {
+        $query = $this->db->query("SELECT a.attribute_group_id, a.attribute_id, ad.name FROM " . DB_PREFIX . "attribute AS a
+         INNER JOIN " . DB_PREFIX . "attribute_description AS ad ON (ad.attribute_id = a.attribute_id)  
+             WHERE ad.language_id = '" . (int)$this->config->get('config_language_id') . "'
+             AND attribute_group_id ='" . (int)$attribute_group_id . "' ");
+
+        return $query->rows;
+//        SELECT a.attribute_group_id, 	a.attribute_id, ad.name FROM `oc_attribute` as a
+//INNER JOIN oc_attribute_description as ad ON (ad.attribute_id = a.attribute_id)
+//WHERE attribute_group_id = 7
+    }
+
 //    public function getProductAttributes($product_id) {
 //        $product_attribute_group_data = array();
 //

@@ -51,24 +51,21 @@
                     </div>
                 </div>
             </div>
-            <?php echo '<pre>'; print_r($group_atributes_id);?>
+
             <div class="table-responsive">
                 <table class="table table-bordered table-hover">
                     <thead>
                     <tr>
-                       <?php if (isset($group_atributes_id['atributes_group'][0]['attribute'][0]['product_id'])) { ?>
+                        <?php if (!empty($group_atributes_id['atributes_group'])) { ?>
                         <td class="text-center">Id продукта</td>
                         <?php }?>
-
                         <?php
                           if (is_array($group_atributes_id) || is_object($group_atributes_id)){
                                 foreach ($group_atributes_id as $attr){
                                 if (is_array($attr) || is_object($attr)){
-                                     foreach ($attr as $value){
-                                        foreach ($value['attribute'] as $item) {
-                        ?>
-                        <td class="text-center"><?php echo $item['name']; ?></td>
-                        <?php }}}}}?>
+                                     foreach ($attr as $value){ ?>
+                                          <td class="text-center"><?php echo $value['name']; ?></td>
+                        <?php }}}}?>
 
 
 
@@ -76,16 +73,6 @@
                     </thead>
                     <tbody>
 
-                    <?php
-                          if (is_array($group_atributes_id) || is_object($group_atributes_id)){
-                                foreach ($group_atributes_id as $attr){
-                                if (is_array($attr) || is_object($attr)){
-                                     foreach ($attr as $value){
-                                        foreach ($value['attribute'] as $item) {
-                        ?>
-                    
-                    <td class="text-center"><?php echo $item['text']; ?></td>
-                    <?php }}}}}?>
                     </tbody>
                 </table>
             </div>
