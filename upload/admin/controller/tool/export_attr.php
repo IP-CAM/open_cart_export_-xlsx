@@ -63,6 +63,17 @@ class ControllerToolExportAttr extends Controller
 
         $data['group_atributes_id'] =  $this->getAttributesGroup();
 
+
+        echo '<pre>';
+        $res = $this->model_tool_export_attr->select();
+         //$res =  $this->model_tool_export_attr->unique_multidim_array($this->model_tool_export_attr->select(),'product_id');
+
+       //$this->result[] = $this->model_tool_export_attr->getProductAttributes(42);
+      //  print_r( $res);
+
+        exit;
+
+
         $this->response->setOutput($this->load->view('tool/export_attr.tpl', $data));
     }
 
@@ -82,7 +93,7 @@ class ControllerToolExportAttr extends Controller
             return[
                 'session' =>  $this->session->data['attribute_groups'] = $this->request->post['attribute_group_id'],
                 'atributes' =>  $this->model_tool_export_attr->getAttributesGroupTbody((int) $this->request->post['attribute_group_id']),
-                //'atributes_data' =>  $this->model_tool_export_attr->getProductAttributes(42),
+               // 'atributes_data' =>  $this->model_tool_export_attr->getProductAttributes(),
                 'atributes_group' =>  $this->model_tool_export_attr->selectGroupAttrThead((int) $this->request->post['attribute_group_id'])
             ];
         }

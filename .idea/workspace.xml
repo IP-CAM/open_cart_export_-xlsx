@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36f4ba52-d656-4d6a-ab6d-de906d470d51" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/upload/admin/controller/tool/export_attr.php" afterPath="$PROJECT_DIR$/upload/admin/controller/tool/export_attr.php" />
       <change beforePath="$PROJECT_DIR$/upload/admin/model/tool/export_attr.php" afterPath="$PROJECT_DIR$/upload/admin/model/tool/export_attr.php" />
+      <change beforePath="$PROJECT_DIR$/upload/admin/view/template/tool/export_attr.tpl" afterPath="$PROJECT_DIR$/upload/admin/view/template/tool/export_attr.tpl" />
+      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.language.1518089716" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.order_status.1.1518089723" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.store.1518090700" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/upload/system/storage/logs/error.log" afterPath="$PROJECT_DIR$/upload/system/storage/logs/error.log" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,18 +35,8 @@
       <file leaf-file-name="export_attr.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/upload/admin/controller/tool/export_attr.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="87" column="8" lean-forward="false" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="export_attr.tpl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/upload/admin/view/template/tool/export_attr.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="55" column="20" lean-forward="true" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+            <state relative-caret-position="-109">
+              <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -48,17 +45,61 @@
       <file leaf-file-name="export_attr.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/upload/admin/model/tool/export_attr.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="29" column="29" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+            <state relative-caret-position="190">
+              <caret line="79" column="20" lean-forward="false" selection-start-line="82" selection-start-column="59" selection-end-line="82" selection-end-column="618" />
               <folding>
-                <marker date="1518087656013" expanded="true" signature="210:376" ph="SELECT attri... ${DB_PREFIX}" />
-                <marker date="1518087656013" expanded="true" signature="662:1095" ph="SELECT pa.at... ${DB_PREFIX}" />
-                <marker date="1518087656013" expanded="true" signature="662:1218" ph="SELECT pa.at... ${DB_PREFIX}" />
-                <marker date="1518087656013" expanded="true" signature="1542:1900" ph="SELECT a.att... ${DB_PREFIX}" />
-                <marker date="1518087656013" expanded="true" signature="2075:2616" ph="SELECT pa.at... ${DB_PREFIX}" />
-                <marker date="1518087656013" expanded="true" signature="2821:3460" ph="SELECT pa.pr... ${DB_PREFIX}" />
-                <marker date="1518087656013" expanded="true" signature="4492:5138" ph="SELECT pa.pr... ${DB_PREFIX}" />
-                <marker date="1518087656013" expanded="true" signature="5343:5915" ph="SELECT a.att... ${DB_PREFIX}" />
+                <marker date="1518100227861" expanded="true" signature="210:376" ph="SELECT attri... ${DB_PREFIX}" />
+                <marker date="1518100227861" expanded="true" signature="662:1095" ph="SELECT pa.at... ${DB_PREFIX}" />
+                <marker date="1518100227861" expanded="true" signature="662:1218" ph="SELECT pa.at... ${DB_PREFIX}" />
+                <marker date="1518100227861" expanded="true" signature="1541:1899" ph="SELECT a.att... ${DB_PREFIX}" />
+                <marker date="1518100227861" expanded="true" signature="2170:2508" ph="SELECT pa.pr... ${DB_PREFIX}" />
+                <marker date="1518100227861" expanded="true" signature="2170:2511" ph="SELECT a.att... oc_attribute" />
+                <marker date="1518100227861" expanded="true" signature="3101:3657" ph="SELECT ag.at... ${DB_PREFIX}" />
+                <marker date="1518100227861" expanded="true" signature="3852:4424" ph="SELECT a.att... ${DB_PREFIX}" />
+                <marker date="1518100227861" expanded="true" signature="5153:5154" ph="SELECT attri... oc_attribute" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="export_attr.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/upload/admin/view/template/tool/export_attr.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="394">
+              <caret line="73" column="67" lean-forward="false" selection-start-line="73" selection-start-column="58" selection-end-line="73" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/upload/catalog/model/catalog/product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="198" column="44" lean-forward="false" selection-start-line="198" selection-start-column="39" selection-end-line="198" selection-end-column="44" />
+              <folding>
+                <marker date="1444107400000" expanded="true" signature="296:2757" ph="SELECT DISTI... ${DB_PREFIX}" />
+                <marker date="1444107400000" expanded="true" signature="1916:2053" ph="SELECT AVG(r... ${DB_PREFIX}" />
+                <marker date="1444107400000" expanded="true" signature="2067:2201" ph="SELECT COUNT... ${DB_PREFIX}" />
+                <marker date="1444107400000" expanded="true" signature="5083:6001" ph="SELECT p.pro... " />
+                <marker date="1444107400000" expanded="true" signature="5105:5242" ph="SELECT AVG(r... ${DB_PREFIX}" />
+                <marker date="1444107400000" expanded="true" signature="10679:11483" ph="SELECT DISTI... ${DB_PREFIX}" />
+                <marker date="1444107400000" expanded="true" signature="10711:10840" ph="SELECT AVG(r... ${DB_PREFIX}" />
+                <marker date="1444107400000" expanded="true" signature="12849:13140" ph="SELECT p.pro... ${DB_PREFIX}" />
+                <marker date="1444107400000" expanded="true" signature="13655:13961" ph="SELECT p.pro... ${DB_PREFIX}" />
+                <marker date="1444107400000" expanded="true" signature="14502:15012" ph="SELECT op.pr... ${DB_PREFIX}" />
+                <marker date="1444107400000" expanded="true" signature="15578:16134" ph="SELECT ag.at... ${DB_PREFIX}" />
+                <marker date="1444107400000" expanded="true" signature="16305:16877" ph="SELECT a.att... ${DB_PREFIX}" />
+                <marker date="1444107400000" expanded="true" signature="17580:17927" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1444107400000" expanded="true" signature="18086:18563" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1444107400000" expanded="true" signature="19977:20326" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1444107400000" expanded="true" signature="20436:20550" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1444107400000" expanded="true" signature="20689:21062" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1444107400000" expanded="true" signature="21302:21464" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1444107400000" expanded="true" signature="21638:21734" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1444107400000" expanded="true" signature="25385:25675" ph="SELECT * FRO... ${DB_PREFIX}recurring" />
+                <marker date="1444107400000" expanded="true" signature="25813:26305" ph="SELECT `pd`.... ${DB_PREFIX}product_recurring" />
+                <marker date="1444107400000" expanded="true" signature="26393:26963" ph="SELECT COUNT... ${DB_PREFIX}" />
               </folding>
             </state>
           </provider>
@@ -68,10 +109,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>$product_id</find>
-      <find>getProductRelated</find>
-      <find>product_id</find>
-      <find>form</find>
       <find>server</find>
       <find>session</find>
       <find>getSession</find>
@@ -84,13 +121,11 @@
       <find>colspan</find>
       <find>$product_attribute_group_query =</find>
       <find>product_attribute_group_q</find>
-      <find>group_atributes_id</find>
       <find>getAttributesGroup</find>
       <find>attr</find>
       <find>produc</find>
       <find>$product_attribute_data</find>
       <find>atributes_data</find>
-      <find>getProductAttributes</find>
       <find>selectGroupAtribute</find>
       <find>getAttributesGroupHead</find>
       <find>selectGroupAttrId</find>
@@ -98,6 +133,12 @@
       <find>atributes_group</find>
       <find>selectGroupAttrThead</find>
       <find>atributes</find>
+      <find>getAttributesGroupTbody</find>
+      <find>group_atributes_id</find>
+      <find>print_r</find>
+      <find>$data</find>
+      <find>$this-&gt;se</find>
+      <find>getProductAttributes</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -115,9 +156,9 @@
         <option value="$PROJECT_DIR$/upload/catalog/controller/product/product.php" />
         <option value="$PROJECT_DIR$/upload/admin/view/template/catalog/product_form.tpl" />
         <option value="$PROJECT_DIR$/upload/catalog/view/theme/default/template/product/product.tpl" />
-        <option value="$PROJECT_DIR$/upload/admin/controller/tool/export_attr.php" />
         <option value="$PROJECT_DIR$/upload/admin/view/template/tool/export_attr.tpl" />
         <option value="$PROJECT_DIR$/upload/admin/model/tool/export_attr.php" />
+        <option value="$PROJECT_DIR$/upload/admin/controller/tool/export_attr.php" />
       </list>
     </option>
   </component>
@@ -129,9 +170,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="39" />
+    <option name="x" value="-39" />
+    <option name="y" value="146" />
     <option name="width" value="1284" />
-    <option name="height" value="429" />
+    <option name="height" value="611" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -166,20 +208,28 @@
               <item name="tz.loc" type="b2602c69:ProjectViewProjectNode" />
               <item name="tz.loc" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="upload" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="catalog" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="tz.loc" type="b2602c69:ProjectViewProjectNode" />
               <item name="tz.loc" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="upload" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="catalog" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="model" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="tz.loc" type="b2602c69:ProjectViewProjectNode" />
               <item name="tz.loc" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="upload" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="catalog" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="model" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="catalog" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tz.loc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tz.loc" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="upload" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="catalog" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="model" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="tool" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
@@ -226,13 +276,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51524000" />
+    <option name="totallyTimeSpent" value="66865000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29761904" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.104761906" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -398,14 +447,15 @@
         <state relative-caret-position="170">
           <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="40" />
           <folding>
-            <marker date="1518087656013" expanded="true" signature="210:376" ph="SELECT attri... ${DB_PREFIX}" />
-            <marker date="1518087656013" expanded="true" signature="662:1095" ph="SELECT pa.at... ${DB_PREFIX}" />
-            <marker date="1518087656013" expanded="true" signature="662:1218" ph="SELECT pa.at... ${DB_PREFIX}" />
-            <marker date="1518087656013" expanded="true" signature="1542:1900" ph="SELECT a.att... ${DB_PREFIX}" />
-            <marker date="1518087656013" expanded="true" signature="2075:2616" ph="SELECT pa.at... ${DB_PREFIX}" />
-            <marker date="1518087656013" expanded="true" signature="2821:3460" ph="SELECT pa.pr... ${DB_PREFIX}" />
-            <marker date="1518087656013" expanded="true" signature="4492:5138" ph="SELECT pa.pr... ${DB_PREFIX}" />
-            <marker date="1518087656013" expanded="true" signature="5343:5915" ph="SELECT a.att... ${DB_PREFIX}" />
+            <marker date="1518100227861" expanded="true" signature="210:376" ph="SELECT attri... ${DB_PREFIX}" />
+            <marker date="1518100227861" expanded="true" signature="662:1095" ph="SELECT pa.at... ${DB_PREFIX}" />
+            <marker date="1518100227861" expanded="true" signature="662:1218" ph="SELECT pa.at... ${DB_PREFIX}" />
+            <marker date="1518100227861" expanded="true" signature="1541:1899" ph="SELECT a.att... ${DB_PREFIX}" />
+            <marker date="1518100227861" expanded="true" signature="2170:2508" ph="SELECT pa.pr... ${DB_PREFIX}" />
+            <marker date="1518100227861" expanded="true" signature="2170:2511" ph="SELECT a.att... oc_attribute" />
+            <marker date="1518100227861" expanded="true" signature="3101:3657" ph="SELECT ag.at... ${DB_PREFIX}" />
+            <marker date="1518100227861" expanded="true" signature="3852:4424" ph="SELECT a.att... ${DB_PREFIX}" />
+            <marker date="1518100227861" expanded="true" signature="5153:5154" ph="SELECT attri... oc_attribute" />
           </folding>
         </state>
       </provider>
@@ -654,16 +704,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/upload/catalog/controller/product/product.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="401" column="0" lean-forward="false" selection-start-line="400" selection-start-column="12" selection-end-line="401" selection-end-column="0" />
+        <state relative-caret-position="190">
+          <caret line="599" column="33" lean-forward="false" selection-start-line="599" selection-start-column="28" selection-end-line="599" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/admin/view/template/tool/export_attr.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="73" column="67" lean-forward="false" selection-start-line="73" selection-start-column="58" selection-end-line="73" selection-end-column="67" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/upload/catalog/model/catalog/product.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="320" column="5" lean-forward="false" selection-start-line="294" selection-start-column="4" selection-end-line="320" selection-end-column="5" />
+        <state relative-caret-position="156">
+          <caret line="198" column="44" lean-forward="false" selection-start-line="198" selection-start-column="39" selection-end-line="198" selection-end-column="44" />
           <folding>
             <marker date="1444107400000" expanded="true" signature="296:2757" ph="SELECT DISTI... ${DB_PREFIX}" />
             <marker date="1444107400000" expanded="true" signature="1916:2053" ph="SELECT AVG(r... ${DB_PREFIX}" />
@@ -691,35 +749,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/upload/admin/controller/tool/export_attr.php">
+    <entry file="file://$PROJECT_DIR$/upload/catalog/model/catalog/review.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="87" column="8" lean-forward="false" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="8" />
-          <folding />
+        <state relative-caret-position="-612">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1444107400000" expanded="true" signature="167:466" ph="INSERT INTO ${DB_PREFIX}review... " />
+            <marker date="1444107400000" expanded="true" signature="2774:3307" ph="SELECT r.rev... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="3441:3843" ph="SELECT COUNT... ${DB_PREFIX}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/upload/admin/view/template/tool/export_attr.tpl">
+    <entry file="file://$PROJECT_DIR$/upload/catalog/model/tool/online.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="55" column="20" lean-forward="true" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1444107400000" expanded="true" signature="128:245" ph="DELETE FROM `${DB_PREFIX}customer_online`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/admin/controller/tool/export_attr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-109">
+          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/upload/admin/model/tool/export_attr.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="29" column="29" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        <state relative-caret-position="190">
+          <caret line="79" column="20" lean-forward="false" selection-start-line="82" selection-start-column="59" selection-end-line="82" selection-end-column="618" />
           <folding>
-            <marker date="1518087656013" expanded="true" signature="210:376" ph="SELECT attri... ${DB_PREFIX}" />
-            <marker date="1518087656013" expanded="true" signature="662:1095" ph="SELECT pa.at... ${DB_PREFIX}" />
-            <marker date="1518087656013" expanded="true" signature="662:1218" ph="SELECT pa.at... ${DB_PREFIX}" />
-            <marker date="1518087656013" expanded="true" signature="1542:1900" ph="SELECT a.att... ${DB_PREFIX}" />
-            <marker date="1518087656013" expanded="true" signature="2075:2616" ph="SELECT pa.at... ${DB_PREFIX}" />
-            <marker date="1518087656013" expanded="true" signature="2821:3460" ph="SELECT pa.pr... ${DB_PREFIX}" />
-            <marker date="1518087656013" expanded="true" signature="4492:5138" ph="SELECT pa.pr... ${DB_PREFIX}" />
-            <marker date="1518087656013" expanded="true" signature="5343:5915" ph="SELECT a.att... ${DB_PREFIX}" />
+            <marker date="1518100227861" expanded="true" signature="210:376" ph="SELECT attri... ${DB_PREFIX}" />
+            <marker date="1518100227861" expanded="true" signature="662:1095" ph="SELECT pa.at... ${DB_PREFIX}" />
+            <marker date="1518100227861" expanded="true" signature="662:1218" ph="SELECT pa.at... ${DB_PREFIX}" />
+            <marker date="1518100227861" expanded="true" signature="1541:1899" ph="SELECT a.att... ${DB_PREFIX}" />
+            <marker date="1518100227861" expanded="true" signature="2170:2508" ph="SELECT pa.pr... ${DB_PREFIX}" />
+            <marker date="1518100227861" expanded="true" signature="2170:2511" ph="SELECT a.att... oc_attribute" />
+            <marker date="1518100227861" expanded="true" signature="3101:3657" ph="SELECT ag.at... ${DB_PREFIX}" />
+            <marker date="1518100227861" expanded="true" signature="3852:4424" ph="SELECT a.att... ${DB_PREFIX}" />
+            <marker date="1518100227861" expanded="true" signature="5153:5154" ph="SELECT attri... oc_attribute" />
           </folding>
         </state>
       </provider>

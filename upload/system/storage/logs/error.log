@@ -1568,3 +1568,346 @@
 2018-02-08 13:49:50 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 75
 2018-02-08 13:50:16 - PHP Notice:  Undefined index: atributes in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 75
 2018-02-08 13:50:16 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 75
+2018-02-08 15:02:10 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:02:41 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:02:41 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:02:41 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:02:41 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:02:41 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:02:41 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:02:41 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:02:41 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:03:32 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:03:32 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:03:32 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:03:32 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:03:32 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:03:32 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:03:32 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:03:32 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:04:05 - PHP Notice:  Undefined offset: 0 in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:04:05 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:04:05 - PHP Notice:  Undefined offset: 0 in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:04:05 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:04:05 - PHP Notice:  Undefined offset: 0 in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:04:05 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:04:05 - PHP Notice:  Undefined offset: 0 in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:04:05 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:04:05 - PHP Notice:  Undefined offset: 0 in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:04:05 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:04:05 - PHP Notice:  Undefined offset: 0 in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:04:05 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:04:05 - PHP Notice:  Undefined offset: 0 in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:04:05 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:04:05 - PHP Notice:  Undefined offset: 0 in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:04:05 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:04:16 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:04:16 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:04:16 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:04:16 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:04:16 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:04:16 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:04:16 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:04:16 - PHP Notice:  Undefined index: attribute_group_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 66
+2018-02-08 15:28:46 - PHP Notice:  Undefined index: text in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 76
+2018-02-08 15:28:46 - PHP Notice:  Undefined index: text in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 76
+2018-02-08 15:28:59 - PHP Notice:  Undefined index: text in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 76
+2018-02-08 15:28:59 - PHP Notice:  Undefined index: text in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 76
+2018-02-08 15:29:14 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 76
+2018-02-08 15:29:14 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 76
+2018-02-08 15:31:34 - PHP Notice:  Undefined index: brend in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 76
+2018-02-08 15:31:34 - PHP Notice:  Undefined index: color in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 77
+2018-02-08 15:31:34 - PHP Notice:  Undefined index: garantia in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 78
+2018-02-08 15:31:34 - PHP Notice:  Undefined index: tip in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 79
+2018-02-08 15:31:34 - PHP Notice:  Undefined index: seria in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 80
+2018-02-08 15:31:34 - PHP Notice:  Undefined index: Group in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 81
+2018-02-08 15:31:34 - PHP Notice:  Undefined index: brend in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 76
+2018-02-08 15:31:34 - PHP Notice:  Undefined index: color in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 77
+2018-02-08 15:31:34 - PHP Notice:  Undefined index: garantia in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 78
+2018-02-08 15:31:34 - PHP Notice:  Undefined index: tip in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 79
+2018-02-08 15:31:34 - PHP Notice:  Undefined index: seria in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 80
+2018-02-08 15:31:34 - PHP Notice:  Undefined index: Group in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 81
+2018-02-08 15:32:09 - PHP Notice:  Undefined index: brend in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 77
+2018-02-08 15:32:09 - PHP Notice:  Undefined index: color in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 78
+2018-02-08 15:32:09 - PHP Notice:  Undefined index: garantia in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 79
+2018-02-08 15:32:09 - PHP Notice:  Undefined index: tip in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 80
+2018-02-08 15:32:09 - PHP Notice:  Undefined index: seria in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 81
+2018-02-08 15:32:09 - PHP Notice:  Undefined index: Group in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 82
+2018-02-08 15:32:09 - PHP Notice:  Undefined index: brend in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 77
+2018-02-08 15:32:09 - PHP Notice:  Undefined index: color in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 78
+2018-02-08 15:32:09 - PHP Notice:  Undefined index: garantia in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 79
+2018-02-08 15:32:09 - PHP Notice:  Undefined index: tip in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 80
+2018-02-08 15:32:09 - PHP Notice:  Undefined index: seria in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 81
+2018-02-08 15:32:09 - PHP Notice:  Undefined index: Group in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 82
+2018-02-08 15:32:23 - PHP Notice:  Undefined index: brend in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 77
+2018-02-08 15:32:23 - PHP Notice:  Undefined index: color in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 78
+2018-02-08 15:32:23 - PHP Notice:  Undefined index: garantia in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 79
+2018-02-08 15:32:23 - PHP Notice:  Undefined index: tip in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 80
+2018-02-08 15:32:23 - PHP Notice:  Undefined index: seria in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 81
+2018-02-08 15:32:23 - PHP Notice:  Undefined index: Group in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 82
+2018-02-08 15:32:23 - PHP Notice:  Undefined index: brend in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 77
+2018-02-08 15:32:23 - PHP Notice:  Undefined index: color in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 78
+2018-02-08 15:32:23 - PHP Notice:  Undefined index: garantia in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 79
+2018-02-08 15:32:23 - PHP Notice:  Undefined index: tip in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 80
+2018-02-08 15:32:23 - PHP Notice:  Undefined index: seria in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 81
+2018-02-08 15:32:23 - PHP Notice:  Undefined index: Group in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 82
+2018-02-08 15:33:35 - PHP Notice:  Undefined index: brend in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 80
+2018-02-08 15:33:35 - PHP Notice:  Undefined index: color in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 81
+2018-02-08 15:33:35 - PHP Notice:  Undefined index: garantia in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 82
+2018-02-08 15:33:35 - PHP Notice:  Undefined index: tip in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 83
+2018-02-08 15:33:35 - PHP Notice:  Undefined index: seria in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 84
+2018-02-08 15:33:35 - PHP Notice:  Undefined index: Group in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 85
+2018-02-08 15:33:35 - PHP Notice:  Undefined index: brend in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 80
+2018-02-08 15:33:35 - PHP Notice:  Undefined index: color in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 81
+2018-02-08 15:33:35 - PHP Notice:  Undefined index: garantia in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 82
+2018-02-08 15:33:35 - PHP Notice:  Undefined index: tip in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 83
+2018-02-08 15:33:35 - PHP Notice:  Undefined index: seria in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 84
+2018-02-08 15:33:35 - PHP Notice:  Undefined index: Group in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 85
+2018-02-08 15:33:48 - PHP Notice:  Undefined index: brend in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 80
+2018-02-08 15:33:48 - PHP Notice:  Undefined index: color in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 81
+2018-02-08 15:33:48 - PHP Notice:  Undefined index: garantia in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 82
+2018-02-08 15:33:48 - PHP Notice:  Undefined index: tip in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 83
+2018-02-08 15:33:48 - PHP Notice:  Undefined index: seria in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 84
+2018-02-08 15:33:48 - PHP Notice:  Undefined index: Group in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 85
+2018-02-08 15:33:48 - PHP Notice:  Undefined index: brend in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 80
+2018-02-08 15:33:48 - PHP Notice:  Undefined index: color in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 81
+2018-02-08 15:33:48 - PHP Notice:  Undefined index: garantia in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 82
+2018-02-08 15:33:48 - PHP Notice:  Undefined index: tip in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 83
+2018-02-08 15:33:48 - PHP Notice:  Undefined index: seria in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 84
+2018-02-08 15:33:48 - PHP Notice:  Undefined index: Group in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 85
+2018-02-08 15:34:28 - PHP Notice:  Undefined index: brend in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 81
+2018-02-08 15:34:28 - PHP Notice:  Undefined index: color in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 82
+2018-02-08 15:34:28 - PHP Notice:  Undefined index: garantia in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 83
+2018-02-08 15:34:28 - PHP Notice:  Undefined index: tip in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 84
+2018-02-08 15:34:28 - PHP Notice:  Undefined index: seria in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 85
+2018-02-08 15:34:28 - PHP Notice:  Undefined index: Group in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 86
+2018-02-08 15:34:28 - PHP Notice:  Undefined index: brend in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 81
+2018-02-08 15:34:28 - PHP Notice:  Undefined index: color in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 82
+2018-02-08 15:34:28 - PHP Notice:  Undefined index: garantia in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 83
+2018-02-08 15:34:28 - PHP Notice:  Undefined index: tip in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 84
+2018-02-08 15:34:28 - PHP Notice:  Undefined index: seria in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 85
+2018-02-08 15:34:28 - PHP Notice:  Undefined index: Group in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 86
+2018-02-08 15:34:31 - PHP Notice:  Undefined index: brend in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 81
+2018-02-08 15:34:31 - PHP Notice:  Undefined index: color in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 82
+2018-02-08 15:34:31 - PHP Notice:  Undefined index: garantia in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 83
+2018-02-08 15:34:31 - PHP Notice:  Undefined index: tip in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 84
+2018-02-08 15:34:31 - PHP Notice:  Undefined index: seria in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 85
+2018-02-08 15:34:31 - PHP Notice:  Undefined index: Group in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 86
+2018-02-08 15:34:31 - PHP Notice:  Undefined index: brend in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 81
+2018-02-08 15:34:31 - PHP Notice:  Undefined index: color in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 82
+2018-02-08 15:34:31 - PHP Notice:  Undefined index: garantia in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 83
+2018-02-08 15:34:31 - PHP Notice:  Undefined index: tip in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 84
+2018-02-08 15:34:31 - PHP Notice:  Undefined index: seria in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 85
+2018-02-08 15:34:31 - PHP Notice:  Undefined index: Group in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 86
+2018-02-08 15:34:46 - PHP Notice:  Undefined index: brend in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 81
+2018-02-08 15:34:46 - PHP Notice:  Undefined index: color in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 82
+2018-02-08 15:34:46 - PHP Notice:  Undefined index: garantia in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 83
+2018-02-08 15:34:46 - PHP Notice:  Undefined index: tip in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 84
+2018-02-08 15:34:46 - PHP Notice:  Undefined index: seria in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 85
+2018-02-08 15:34:46 - PHP Notice:  Undefined index: Group in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 86
+2018-02-08 15:34:46 - PHP Notice:  Undefined index: brend in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 81
+2018-02-08 15:34:46 - PHP Notice:  Undefined index: color in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 82
+2018-02-08 15:34:46 - PHP Notice:  Undefined index: garantia in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 83
+2018-02-08 15:34:46 - PHP Notice:  Undefined index: tip in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 84
+2018-02-08 15:34:46 - PHP Notice:  Undefined index: seria in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 85
+2018-02-08 15:34:46 - PHP Notice:  Undefined index: Group in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 86
+2018-02-08 15:54:57 - PHP Notice:  Undefined index:  'product_id' in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 67
+2018-02-08 15:54:57 - PHP Warning:  array_unique() expects parameter 1 to be array, null given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 67
+2018-02-08 15:54:57 - PHP Notice:  Undefined index:  'product_id' in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 67
+2018-02-08 15:54:57 - PHP Warning:  array_unique() expects parameter 1 to be array, null given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 67
+2018-02-08 15:54:57 - PHP Notice:  Undefined index:  'product_id' in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 67
+2018-02-08 15:54:57 - PHP Warning:  array_unique() expects parameter 1 to be array, null given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 67
+2018-02-08 15:54:57 - PHP Notice:  Undefined index:  'product_id' in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 67
+2018-02-08 15:54:57 - PHP Warning:  array_unique() expects parameter 1 to be array, null given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 67
+2018-02-08 15:54:57 - PHP Notice:  Undefined index:  'product_id' in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 67
+2018-02-08 15:54:57 - PHP Warning:  array_unique() expects parameter 1 to be array, null given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 67
+2018-02-08 15:54:57 - PHP Notice:  Undefined index:  'product_id' in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 67
+2018-02-08 15:54:57 - PHP Warning:  array_unique() expects parameter 1 to be array, null given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 67
+2018-02-08 15:54:57 - PHP Notice:  Undefined index:  'product_id' in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 67
+2018-02-08 15:54:57 - PHP Warning:  array_unique() expects parameter 1 to be array, null given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 67
+2018-02-08 15:54:57 - PHP Notice:  Undefined index:  'product_id' in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 67
+2018-02-08 15:54:57 - PHP Warning:  array_unique() expects parameter 1 to be array, null given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 67
+2018-02-08 15:55:58 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 15:55:58 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 15:55:58 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 15:55:58 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 15:55:58 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 15:55:58 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 15:55:58 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 15:55:58 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:25:19 - PHP Notice:  Undefined variable: product_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 71
+2018-02-08 16:25:40 - PHP Notice:  Undefined variable: product_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 71
+2018-02-08 16:26:30 - PHP Notice:  Undefined index: text in D:\OSPanel\domains\tz.loc\upload\admin\view\template\tool\export_attr.tpl on line 75
+2018-02-08 16:31:14 - PHP Warning:  Missing argument 1 for ModelToolExportAttr::getProductAttributes(), called in D:\OSPanel\domains\tz.loc\upload\admin\controller\tool\export_attr.php on line 93 and defined in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 69
+2018-02-08 16:31:14 - PHP Notice:  Undefined variable: product_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 79
+2018-02-08 16:34:48 - PHP Warning:  Illegal offset type in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:34:48 - PHP Warning:  Illegal offset type in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:34:48 - PHP Warning:  Illegal offset type in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:34:48 - PHP Warning:  Illegal offset type in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:34:48 - PHP Warning:  Illegal offset type in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:34:48 - PHP Warning:  Illegal offset type in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:34:48 - PHP Warning:  Illegal offset type in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:34:48 - PHP Warning:  Illegal offset type in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:35:18 - PHP Warning:  Illegal offset type in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 65
+2018-02-08 16:35:18 - PHP Warning:  Illegal offset type in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 65
+2018-02-08 16:35:18 - PHP Warning:  Illegal offset type in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 65
+2018-02-08 16:35:18 - PHP Warning:  Illegal offset type in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 65
+2018-02-08 16:35:18 - PHP Warning:  Illegal offset type in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 65
+2018-02-08 16:35:18 - PHP Warning:  Illegal offset type in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 65
+2018-02-08 16:35:18 - PHP Warning:  Illegal offset type in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 65
+2018-02-08 16:35:18 - PHP Warning:  Illegal offset type in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 65
+2018-02-08 16:35:41 - PHP Warning:  Illegal offset type in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 65
+2018-02-08 16:35:41 - PHP Warning:  Illegal offset type in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 65
+2018-02-08 16:35:41 - PHP Warning:  Illegal offset type in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 65
+2018-02-08 16:35:41 - PHP Warning:  Illegal offset type in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 65
+2018-02-08 16:35:41 - PHP Warning:  Illegal offset type in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 65
+2018-02-08 16:35:41 - PHP Warning:  Illegal offset type in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 65
+2018-02-08 16:35:41 - PHP Warning:  Illegal offset type in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 65
+2018-02-08 16:35:41 - PHP Warning:  Illegal offset type in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 65
+2018-02-08 16:40:33 - PHP Warning:  array_count_values(): Can only count STRING and INTEGER values! in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 62
+2018-02-08 16:40:33 - PHP Warning:  array_count_values(): Can only count STRING and INTEGER values! in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 62
+2018-02-08 16:40:33 - PHP Warning:  array_count_values(): Can only count STRING and INTEGER values! in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 62
+2018-02-08 16:40:33 - PHP Warning:  array_count_values(): Can only count STRING and INTEGER values! in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 62
+2018-02-08 16:40:33 - PHP Warning:  array_count_values(): Can only count STRING and INTEGER values! in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 62
+2018-02-08 16:40:33 - PHP Warning:  array_count_values(): Can only count STRING and INTEGER values! in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 62
+2018-02-08 16:40:33 - PHP Warning:  array_count_values(): Can only count STRING and INTEGER values! in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 62
+2018-02-08 16:40:33 - PHP Warning:  array_count_values(): Can only count STRING and INTEGER values! in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 62
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:43:44 - PHP Notice:  Array to string conversion in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 63
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 16:44:11 - PHP Warning:  array_unique() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 64
+2018-02-08 17:04:15 - PHP Notice:  Undefined index: ['product_id'] in D:\OSPanel\domains\tz.loc\upload\admin\controller\tool\export_attr.php on line 71
+2018-02-08 17:07:11 - PHP Warning:  Missing argument 1 for ModelToolExportAttr::getProductAttributes(), called in D:\OSPanel\domains\tz.loc\upload\admin\controller\tool\export_attr.php on line 72 and defined in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 80
+2018-02-08 17:07:11 - PHP Notice:  Undefined variable: product_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 83
+2018-02-08 17:18:36 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\controller\tool\export_attr.php on line 75
+2018-02-08 17:18:36 - PHP Warning:  Invalid argument supplied for foreach() in D:\OSPanel\domains\tz.loc\upload\admin\controller\tool\export_attr.php on line 75
+2018-02-08 17:29:28 - PHP Notice:  Undefined variable: product_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 83
+2018-02-08 17:29:47 - PHP Notice:  Undefined variable: product_id in D:\OSPanel\domains\tz.loc\upload\admin\model\tool\export_attr.php on line 83
+2018-02-08 18:34:10 - PHP Warning:  prev() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\controller\tool\export_attr.php on line 76
+2018-02-08 18:34:10 - PHP Warning:  prev() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\controller\tool\export_attr.php on line 76
+2018-02-08 18:34:10 - PHP Warning:  prev() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\controller\tool\export_attr.php on line 76
+2018-02-08 18:34:10 - PHP Warning:  prev() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\controller\tool\export_attr.php on line 76
+2018-02-08 18:34:10 - PHP Warning:  prev() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\controller\tool\export_attr.php on line 76
+2018-02-08 18:34:10 - PHP Warning:  prev() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\controller\tool\export_attr.php on line 76
+2018-02-08 18:34:10 - PHP Warning:  prev() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\controller\tool\export_attr.php on line 76
+2018-02-08 18:34:10 - PHP Warning:  prev() expects parameter 1 to be array, string given in D:\OSPanel\domains\tz.loc\upload\admin\controller\tool\export_attr.php on line 76
+2018-02-08 18:34:31 - PHP Warning:  prev() expects parameter 1 to be array, integer given in D:\OSPanel\domains\tz.loc\upload\admin\controller\tool\export_attr.php on line 76
+2018-02-08 18:34:31 - PHP Warning:  prev() expects parameter 1 to be array, integer given in D:\OSPanel\domains\tz.loc\upload\admin\controller\tool\export_attr.php on line 76
+2018-02-08 18:34:31 - PHP Warning:  prev() expects parameter 1 to be array, integer given in D:\OSPanel\domains\tz.loc\upload\admin\controller\tool\export_attr.php on line 76
+2018-02-08 18:34:31 - PHP Warning:  prev() expects parameter 1 to be array, integer given in D:\OSPanel\domains\tz.loc\upload\admin\controller\tool\export_attr.php on line 76
+2018-02-08 18:34:31 - PHP Warning:  prev() expects parameter 1 to be array, integer given in D:\OSPanel\domains\tz.loc\upload\admin\controller\tool\export_attr.php on line 76
+2018-02-08 18:34:31 - PHP Warning:  prev() expects parameter 1 to be array, integer given in D:\OSPanel\domains\tz.loc\upload\admin\controller\tool\export_attr.php on line 76
+2018-02-08 18:34:31 - PHP Warning:  prev() expects parameter 1 to be array, integer given in D:\OSPanel\domains\tz.loc\upload\admin\controller\tool\export_attr.php on line 76
+2018-02-08 18:34:31 - PHP Warning:  prev() expects parameter 1 to be array, integer given in D:\OSPanel\domains\tz.loc\upload\admin\controller\tool\export_attr.php on line 76
