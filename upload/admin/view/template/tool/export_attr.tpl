@@ -56,23 +56,25 @@
                 <table class="table table-bordered table-hover">
                     <thead>
                     <tr>
-                        <?php if (!empty($group_atributes_id['atributes_group'])) { ?>
-                        <td class="text-center">Id продукта</td>
-                        <?php }?>
                         <?php
-                          if (is_array($group_atributes_id) || is_object($group_atributes_id)){
-                                foreach ($group_atributes_id as $attr){
-                                if (is_array($attr) || is_object($attr)){
-                                     foreach ($attr as $value){ ?>
-                                          <td class="text-center"><?php echo $value['name']; ?></td>
-                        <?php }}}}?>
+                            if (!empty($group_atributes_id['atributes_group'])) { ?>
+                                <td class="text-center">Id продукта</td>
+                        <?php }?>
 
-
-
+                        <?php
+                            if (is_array($group_atributes_id) || is_object($group_atributes_id)){
+                                foreach ($group_atributes_id['atributes_group'] as $attr){ ?>
+                                    <td class="text-center"><?php echo $attr['name']; ?></td>
+                        <?php }}?>
                     </tr>
                     </thead>
                     <tbody>
-
+                        <?php
+                            // print_r($group_atributes_id);
+                            if (is_array($group_atributes_id) || is_object($group_atributes_id)){
+                            foreach ($group_atributes_id['atributes'] as $attr){ ?>
+                            <td class="text-center"><?php echo $attr['text']; ?></td>
+                        <?php }}?>
                     </tbody>
                 </table>
             </div>

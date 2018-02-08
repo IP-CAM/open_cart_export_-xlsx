@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36f4ba52-d656-4d6a-ab6d-de906d470d51" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/upload/admin/controller/tool/export_attr.php" afterPath="$PROJECT_DIR$/upload/admin/controller/tool/export_attr.php" />
       <change beforePath="$PROJECT_DIR$/upload/admin/model/tool/export_attr.php" afterPath="$PROJECT_DIR$/upload/admin/model/tool/export_attr.php" />
       <change beforePath="$PROJECT_DIR$/upload/admin/view/template/tool/export_attr.tpl" afterPath="$PROJECT_DIR$/upload/admin/view/template/tool/export_attr.tpl" />
-      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.order_status.1.1518022206" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.store.1518025413" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.currency.1518024988" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.language.1518024198" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.length_class.1.1518024198" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.order_status.1.1518027079" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.stock_status.1.1518024198" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.store.1518027729" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.tax_class.1518024198" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.weight_class.1.1518024198" afterPath="" />
       <change beforePath="$PROJECT_DIR$/upload/system/storage/logs/error.log" afterPath="$PROJECT_DIR$/upload/system/storage/logs/error.log" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,41 +37,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="export_attr.tpl" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/upload/admin/view/template/tool/export_attr.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="67" column="24" lean-forward="false" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="export_attr.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/upload/admin/controller/tool/export_attr.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="65" column="33" lean-forward="false" selection-start-line="65" selection-start-column="15" selection-end-line="65" selection-end-column="33" />
+            <state relative-caret-position="319">
+              <caret line="87" column="8" lean-forward="false" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="export_attr.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="export_attr.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/upload/admin/view/template/tool/export_attr.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="55" column="20" lean-forward="true" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="export_attr.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/upload/admin/model/tool/export_attr.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="53" column="37" lean-forward="false" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="37" />
+            <state relative-caret-position="-68">
+              <caret line="32" column="4" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
               <folding>
-                <element signature="e#3551#3608#0#PHP" expanded="false" />
-                <marker date="1518023544066" expanded="true" signature="132:298" ph="SELECT attri... ${DB_PREFIX}" />
-                <marker date="1518023544066" expanded="true" signature="510:1203" ph="SELECT ag.at... ${DB_PREFIX}" />
-                <marker date="1518023544066" expanded="true" signature="1398:2048" ph="SELECT a.att... ${DB_PREFIX}" />
-                <marker date="1518023544066" expanded="true" signature="2949:3157" ph="SELECT a.att... ${DB_PREFIX}" />
-                <marker date="1518023544066" expanded="true" signature="2949:3235" ph="SELECT a.att... ${DB_PREFIX}" />
-                <marker date="1518023544066" expanded="true" signature="2949:3273" ph="SELECT a.att... ${DB_PREFIX}" />
-                <marker date="1518023544066" expanded="true" signature="2949:3307" ph="SELECT a.att... ${DB_PREFIX}" />
-                <marker date="1518023544066" expanded="true" signature="2949:3328" ph="SELECT a.att... ${DB_PREFIX}" />
+                <marker date="1518087351695" expanded="true" signature="210:376" ph="SELECT attri... ${DB_PREFIX}" />
+                <marker date="1518087351695" expanded="true" signature="662:1095" ph="SELECT pa.at... ${DB_PREFIX}" />
+                <marker date="1518087351695" expanded="true" signature="662:1218" ph="SELECT pa.at... ${DB_PREFIX}" />
+                <marker date="1518087351695" expanded="true" signature="1541:1899" ph="SELECT a.att... ${DB_PREFIX}" />
+                <marker date="1518087351695" expanded="true" signature="2074:2615" ph="SELECT pa.at... ${DB_PREFIX}" />
+                <marker date="1518087351695" expanded="true" signature="2820:3459" ph="SELECT pa.pr... ${DB_PREFIX}" />
+                <marker date="1518087351695" expanded="true" signature="4491:5137" ph="SELECT pa.pr... ${DB_PREFIX}" />
+                <marker date="1518087351695" expanded="true" signature="5342:5914" ph="SELECT a.att... ${DB_PREFIX}" />
               </folding>
             </state>
           </provider>
@@ -74,36 +80,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>select</find>
-      <find>option-value</find>
-      <find>foreach</find>
-      <find>attr</find>
-      <find>attribute_group_description</find>
-      <find>data-toggle</find>
-      <find>form-backup</find>
-      <find>tooltip</find>
-      <find>backup</find>
-      <find>backup'</find>
-      <find>'backup'</find>
-      <find>get_group_atributes</find>
       <find>$product_id</find>
       <find>getProductRelated</find>
-      <find>getProductAttributes</find>
       <find>product_id</find>
       <find>form</find>
       <find>server</find>
       <find>session</find>
       <find>getSession</find>
       <find>attribute_groups</find>
-      <find>getAttributesGroup</find>
       <find>session_id_group</find>
       <find>id=&quot;discount&quot;</find>
       <find>#tab-specification</find>
       <find>tab</find>
       <find>discount</find>
       <find>colspan</find>
-      <find>selectGroupAttrId</find>
+      <find>$product_attribute_group_query =</find>
+      <find>product_attribute_group_q</find>
       <find>group_atributes_id</find>
+      <find>getAttributesGroup</find>
+      <find>attr</find>
+      <find>produc</find>
+      <find>$product_attribute_data</find>
+      <find>atributes_data</find>
+      <find>getProductAttributes</find>
+      <find>selectGroupAtribute</find>
+      <find>getAttributesGroupHead</find>
+      <find>selectGroupAttrId</find>
+      <find>attribute_group_id</find>
+      <find>atributes_group</find>
+      <find>selectGroupAttrThead</find>
+      <find>atributes</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -135,10 +141,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="58" />
-    <option name="y" value="153" />
+    <option name="x" value="39" />
     <option name="width" value="1284" />
-    <option name="height" value="703" />
+    <option name="height" value="429" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -155,6 +160,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,8 +199,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,28 +232,29 @@
       <option name="presentableId" value="Default" />
       <updated>1517946360394</updated>
       <workItem from="1517946363100" duration="10338000" />
-      <workItem from="1517990851518" duration="22664000" />
+      <workItem from="1517990851518" duration="40001000" />
+      <workItem from="1518086190987" duration="1160000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33002000" />
+    <option name="totallyTimeSpent" value="51499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29285714" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29761904" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936507" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -269,11 +275,105 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/upload/admin/controller/tool/export_attr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/admin/model/catalog/attribute.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2516">
+          <caret line="148" column="28" lean-forward="true" selection-start-line="146" selection-start-column="8" selection-end-line="148" selection-end-column="28" />
+          <folding>
+            <marker date="1444107400000" expanded="true" signature="169:324" ph="INSERT INTO ${DB_PREFIX}attribute... " />
+            <marker date="1444107400000" expanded="true" signature="464:657" ph="INSERT INTO ${DB_PREFIX}attribute_description... " />
+            <marker date="1444107400000" expanded="true" signature="1124:1224" ph="DELETE FROM ${DB_PREFIX}attribute_description... " />
+            <marker date="1444107400000" expanded="true" signature="1321:1514" ph="INSERT INTO ${DB_PREFIX}attribute_description... " />
+            <marker date="1444107400000" expanded="true" signature="1737:1825" ph="DELETE FROM ${DB_PREFIX}attribute... " />
+            <marker date="1444107400000" expanded="true" signature="1849:1949" ph="DELETE FROM ${DB_PREFIX}attribute_description... " />
+            <marker date="1444107400000" expanded="true" signature="2105:2366" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="2457:2890" ph="SELECT *, (S... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="3989:4091" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="4326:4759" ph="SELECT *, (S... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="5792:5848" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="5994:6112" ph="SELECT COUNT... ${DB_PREFIX}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/admin/model/catalog/attribute_group.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="82" column="5" lean-forward="true" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
+          <folding>
+            <marker date="1444107400000" expanded="true" signature="185:281" ph="INSERT INTO ${DB_PREFIX}attribute_group... " />
+            <marker date="1444107400000" expanded="true" signature="433:644" ph="INSERT INTO ${DB_PREFIX}attribute_group_description... " />
+            <marker date="1444107400000" expanded="true" signature="1099:1217" ph="DELETE FROM ${DB_PREFIX}attribute_group_description... " />
+            <marker date="1444107400000" expanded="true" signature="1320:1531" ph="INSERT INTO ${DB_PREFIX}attribute_group_description... " />
+            <marker date="1444107400000" expanded="true" signature="1789:1895" ph="DELETE FROM ${DB_PREFIX}attribute_group... " />
+            <marker date="1444107400000" expanded="true" signature="1919:2037" ph="DELETE FROM ${DB_PREFIX}attribute_group_description... " />
+            <marker date="1444107400000" expanded="true" signature="2216:2324" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="2420:2660" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="3451:3571" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="3814:3876" ph="SELECT COUNT... ${DB_PREFIX}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/catalog/controller/product/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6817">
+          <caret line="401" column="0" lean-forward="true" selection-start-line="400" selection-start-column="12" selection-end-line="401" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/catalog/model/catalog/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5440">
+          <caret line="320" column="5" lean-forward="true" selection-start-line="294" selection-start-column="4" selection-end-line="320" selection-end-column="5" />
+          <folding>
+            <marker date="1444107400000" expanded="true" signature="296:2757" ph="SELECT DISTI... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="1916:2053" ph="SELECT AVG(r... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="2067:2201" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="5083:6001" ph="SELECT p.pro... " />
+            <marker date="1444107400000" expanded="true" signature="5105:5242" ph="SELECT AVG(r... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="10679:11483" ph="SELECT DISTI... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="10711:10840" ph="SELECT AVG(r... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="12849:13140" ph="SELECT p.pro... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="13655:13961" ph="SELECT p.pro... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="14502:15012" ph="SELECT op.pr... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="15578:16134" ph="SELECT ag.at... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="16305:16877" ph="SELECT a.att... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="17580:17927" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="18086:18563" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="19977:20326" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="20436:20550" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="20689:21062" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="21302:21464" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="21638:21734" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="25385:25675" ph="SELECT * FRO... ${DB_PREFIX}recurring" />
+            <marker date="1444107400000" expanded="true" signature="25813:26305" ph="SELECT `pd`.... ${DB_PREFIX}product_recurring" />
+            <marker date="1444107400000" expanded="true" signature="26393:26963" ph="SELECT COUNT... ${DB_PREFIX}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/admin/view/template/tool/export_attr.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="76" column="30" lean-forward="false" selection-start-line="76" selection-start-column="30" selection-end-line="76" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/upload/admin/language/english/tool/export_attr.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -281,7 +381,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1904">
           <caret line="112" column="23" lean-forward="false" selection-start-line="112" selection-start-column="23" selection-end-line="112" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -311,15 +410,14 @@
         <state relative-caret-position="170">
           <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="40" />
           <folding>
-            <element signature="e#3551#3608#0#PHP" expanded="false" />
-            <marker date="1518023544066" expanded="true" signature="132:298" ph="SELECT attri... ${DB_PREFIX}" />
-            <marker date="1518023544066" expanded="true" signature="510:1203" ph="SELECT ag.at... ${DB_PREFIX}" />
-            <marker date="1518023544066" expanded="true" signature="1398:2048" ph="SELECT a.att... ${DB_PREFIX}" />
-            <marker date="1518023544066" expanded="true" signature="2949:3157" ph="SELECT a.att... ${DB_PREFIX}" />
-            <marker date="1518023544066" expanded="true" signature="2949:3235" ph="SELECT a.att... ${DB_PREFIX}" />
-            <marker date="1518023544066" expanded="true" signature="2949:3273" ph="SELECT a.att... ${DB_PREFIX}" />
-            <marker date="1518023544066" expanded="true" signature="2949:3307" ph="SELECT a.att... ${DB_PREFIX}" />
-            <marker date="1518023544066" expanded="true" signature="2949:3328" ph="SELECT a.att... ${DB_PREFIX}" />
+            <marker date="1518087351695" expanded="true" signature="210:376" ph="SELECT attri... ${DB_PREFIX}" />
+            <marker date="1518087351695" expanded="true" signature="662:1095" ph="SELECT pa.at... ${DB_PREFIX}" />
+            <marker date="1518087351695" expanded="true" signature="662:1218" ph="SELECT pa.at... ${DB_PREFIX}" />
+            <marker date="1518087351695" expanded="true" signature="1541:1899" ph="SELECT a.att... ${DB_PREFIX}" />
+            <marker date="1518087351695" expanded="true" signature="2074:2615" ph="SELECT pa.at... ${DB_PREFIX}" />
+            <marker date="1518087351695" expanded="true" signature="2820:3459" ph="SELECT pa.pr... ${DB_PREFIX}" />
+            <marker date="1518087351695" expanded="true" signature="4491:5137" ph="SELECT pa.pr... ${DB_PREFIX}" />
+            <marker date="1518087351695" expanded="true" signature="5342:5914" ph="SELECT a.att... ${DB_PREFIX}" />
           </folding>
         </state>
       </provider>
@@ -375,7 +473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -383,7 +480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1479">
           <caret line="87" column="56" lean-forward="false" selection-start-line="87" selection-start-column="37" selection-end-line="87" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -420,7 +516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1515">
           <caret line="158" column="75" lean-forward="false" selection-start-line="158" selection-start-column="8" selection-end-line="158" selection-end-column="75" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -435,7 +530,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -443,7 +537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -451,13 +544,137 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1479">
           <caret line="87" column="56" lean-forward="false" selection-start-line="87" selection-start-column="37" selection-end-line="87" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/admin/view/template/tool/backup.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="40" column="40" lean-forward="true" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/admin/controller/catalog/attribute_group.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-493">
+          <caret line="112" column="23" lean-forward="false" selection-start-line="112" selection-start-column="23" selection-end-line="112" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/admin/model/tool/backup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/admin/controller/tool/backup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/admin/controller/catalog/option.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-714">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/admin/model/catalog/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="591" column="37" lean-forward="false" selection-start-line="591" selection-start-column="20" selection-end-line="591" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/admin/controller/catalog/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="1245" column="63" lean-forward="false" selection-start-line="1245" selection-start-column="23" selection-end-line="1245" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/admin/view/template/catalog/product_form.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="709" column="19" lean-forward="false" selection-start-line="709" selection-start-column="19" selection-end-line="709" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/catalog/view/theme/default/template/product/product.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="58" column="22" lean-forward="true" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/admin/view/template/tool/upload.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="85" column="75" lean-forward="false" selection-start-line="85" selection-start-column="14" selection-end-line="85" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/admin/view/template/catalog/product_list.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1797">
+          <caret line="27" column="7" lean-forward="false" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/admin/model/catalog/attribute.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="148" column="28" lean-forward="false" selection-start-line="146" selection-start-column="8" selection-end-line="148" selection-end-column="28" />
+          <folding>
+            <marker date="1444107400000" expanded="true" signature="169:324" ph="INSERT INTO ${DB_PREFIX}attribute... " />
+            <marker date="1444107400000" expanded="true" signature="464:657" ph="INSERT INTO ${DB_PREFIX}attribute_description... " />
+            <marker date="1444107400000" expanded="true" signature="1124:1224" ph="DELETE FROM ${DB_PREFIX}attribute_description... " />
+            <marker date="1444107400000" expanded="true" signature="1321:1514" ph="INSERT INTO ${DB_PREFIX}attribute_description... " />
+            <marker date="1444107400000" expanded="true" signature="1737:1825" ph="DELETE FROM ${DB_PREFIX}attribute... " />
+            <marker date="1444107400000" expanded="true" signature="1849:1949" ph="DELETE FROM ${DB_PREFIX}attribute_description... " />
+            <marker date="1444107400000" expanded="true" signature="2105:2366" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="2457:2890" ph="SELECT *, (S... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="3989:4091" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="4326:4759" ph="SELECT *, (S... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="5792:5848" ph="SELECT COUNT... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="5994:6112" ph="SELECT COUNT... ${DB_PREFIX}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/admin/model/catalog/attribute_group.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="82" column="5" lean-forward="false" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
+          <folding>
+            <marker date="1444107400000" expanded="true" signature="185:281" ph="INSERT INTO ${DB_PREFIX}attribute_group... " />
+            <marker date="1444107400000" expanded="true" signature="433:644" ph="INSERT INTO ${DB_PREFIX}attribute_group_description... " />
+            <marker date="1444107400000" expanded="true" signature="1099:1217" ph="DELETE FROM ${DB_PREFIX}attribute_group_description... " />
+            <marker date="1444107400000" expanded="true" signature="1320:1531" ph="INSERT INTO ${DB_PREFIX}attribute_group_description... " />
+            <marker date="1444107400000" expanded="true" signature="1789:1895" ph="DELETE FROM ${DB_PREFIX}attribute_group... " />
+            <marker date="1444107400000" expanded="true" signature="1919:2037" ph="DELETE FROM ${DB_PREFIX}attribute_group_description... " />
+            <marker date="1444107400000" expanded="true" signature="2216:2324" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="2420:2660" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="3451:3571" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1444107400000" expanded="true" signature="3814:3876" ph="SELECT COUNT... ${DB_PREFIX}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/catalog/controller/product/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="401" column="0" lean-forward="false" selection-start-line="400" selection-start-column="12" selection-end-line="401" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/upload/catalog/model/catalog/product.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5440">
+        <state relative-caret-position="343">
           <caret line="320" column="5" lean-forward="false" selection-start-line="294" selection-start-column="4" selection-end-line="320" selection-end-column="5" />
           <folding>
             <marker date="1444107400000" expanded="true" signature="296:2757" ph="SELECT DISTI... ${DB_PREFIX}" />
@@ -486,174 +703,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/upload/admin/view/template/tool/backup.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="40" column="40" lean-forward="true" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/admin/model/catalog/attribute.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="148" column="28" lean-forward="false" selection-start-line="146" selection-start-column="8" selection-end-line="148" selection-end-column="28" />
-          <folding>
-            <marker date="1444107400000" expanded="true" signature="169:324" ph="INSERT INTO ${DB_PREFIX}attribute... " />
-            <marker date="1444107400000" expanded="true" signature="464:657" ph="INSERT INTO ${DB_PREFIX}attribute_description... " />
-            <marker date="1444107400000" expanded="true" signature="1124:1224" ph="DELETE FROM ${DB_PREFIX}attribute_description... " />
-            <marker date="1444107400000" expanded="true" signature="1321:1514" ph="INSERT INTO ${DB_PREFIX}attribute_description... " />
-            <marker date="1444107400000" expanded="true" signature="1737:1825" ph="DELETE FROM ${DB_PREFIX}attribute... " />
-            <marker date="1444107400000" expanded="true" signature="1849:1949" ph="DELETE FROM ${DB_PREFIX}attribute_description... " />
-            <marker date="1444107400000" expanded="true" signature="2105:2366" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1444107400000" expanded="true" signature="2457:2890" ph="SELECT *, (S... ${DB_PREFIX}" />
-            <marker date="1444107400000" expanded="true" signature="3989:4091" ph="SELECT * FRO... ${DB_PREFIX}" />
-            <marker date="1444107400000" expanded="true" signature="4326:4759" ph="SELECT *, (S... ${DB_PREFIX}" />
-            <marker date="1444107400000" expanded="true" signature="5792:5848" ph="SELECT COUNT... ${DB_PREFIX}" />
-            <marker date="1444107400000" expanded="true" signature="5994:6112" ph="SELECT COUNT... ${DB_PREFIX}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/admin/controller/catalog/attribute_group.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-493">
-          <caret line="112" column="23" lean-forward="false" selection-start-line="112" selection-start-column="23" selection-end-line="112" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/catalog/controller/product/product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="401" column="0" lean-forward="true" selection-start-line="401" selection-start-column="0" selection-end-line="401" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/admin/model/tool/backup.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1444107400000" expanded="true" signature="1060:1090" ph="SELECT * FRO... ${$table}" />
-            <marker date="1444107400000" expanded="true" signature="1827:1952" ph="INSERT INTO `${$table}`... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/admin/controller/tool/backup.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/admin/controller/catalog/option.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-714">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/admin/model/catalog/product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="591" column="37" lean-forward="false" selection-start-line="591" selection-start-column="20" selection-end-line="591" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/admin/controller/catalog/product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="1245" column="63" lean-forward="false" selection-start-line="1245" selection-start-column="23" selection-end-line="1245" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/admin/view/template/catalog/product_form.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="709" column="19" lean-forward="false" selection-start-line="709" selection-start-column="19" selection-end-line="709" selection-end-column="19" />
-          <folding>
-            <element signature="e#1014#1021#1#HTML" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#2;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#2;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#2;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#2;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#3;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#4;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#6;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#5;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#6;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#3;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#7;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#4;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#7;n#div#0;n#form#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/catalog/view/theme/default/template/product/product.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="58" column="22" lean-forward="true" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="22" />
-          <folding>
-            <marker date="1518021580962" expanded="true" signature="25425:25432" ph="×" />
-            <marker date="1518021580962" expanded="true" signature="26245:26259" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/admin/view/template/tool/upload.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="85" column="75" lean-forward="false" selection-start-line="85" selection-start-column="14" selection-end-line="85" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/admin/view/template/catalog/product_list.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1797">
-          <caret line="27" column="7" lean-forward="false" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload/admin/model/tool/export_attr.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="53" column="37" lean-forward="false" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="37" />
-          <folding>
-            <element signature="e#3551#3608#0#PHP" expanded="false" />
-            <marker date="1518023544066" expanded="true" signature="132:298" ph="SELECT attri... ${DB_PREFIX}" />
-            <marker date="1518023544066" expanded="true" signature="510:1203" ph="SELECT ag.at... ${DB_PREFIX}" />
-            <marker date="1518023544066" expanded="true" signature="1398:2048" ph="SELECT a.att... ${DB_PREFIX}" />
-            <marker date="1518023544066" expanded="true" signature="2949:3157" ph="SELECT a.att... ${DB_PREFIX}" />
-            <marker date="1518023544066" expanded="true" signature="2949:3235" ph="SELECT a.att... ${DB_PREFIX}" />
-            <marker date="1518023544066" expanded="true" signature="2949:3273" ph="SELECT a.att... ${DB_PREFIX}" />
-            <marker date="1518023544066" expanded="true" signature="2949:3307" ph="SELECT a.att... ${DB_PREFIX}" />
-            <marker date="1518023544066" expanded="true" signature="2949:3328" ph="SELECT a.att... ${DB_PREFIX}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/upload/admin/controller/tool/export_attr.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="65" column="33" lean-forward="false" selection-start-line="65" selection-start-column="15" selection-end-line="65" selection-end-column="33" />
+        <state relative-caret-position="319">
+          <caret line="87" column="8" lean-forward="false" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/upload/admin/view/template/tool/export_attr.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="67" column="24" lean-forward="false" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="24" />
+        <state relative-caret-position="268">
+          <caret line="55" column="20" lean-forward="true" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/admin/model/tool/export_attr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="32" column="4" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+          <folding>
+            <marker date="1518087351695" expanded="true" signature="210:376" ph="SELECT attri... ${DB_PREFIX}" />
+            <marker date="1518087351695" expanded="true" signature="662:1095" ph="SELECT pa.at... ${DB_PREFIX}" />
+            <marker date="1518087351695" expanded="true" signature="662:1218" ph="SELECT pa.at... ${DB_PREFIX}" />
+            <marker date="1518087351695" expanded="true" signature="1541:1899" ph="SELECT a.att... ${DB_PREFIX}" />
+            <marker date="1518087351695" expanded="true" signature="2074:2615" ph="SELECT pa.at... ${DB_PREFIX}" />
+            <marker date="1518087351695" expanded="true" signature="2820:3459" ph="SELECT pa.pr... ${DB_PREFIX}" />
+            <marker date="1518087351695" expanded="true" signature="4491:5137" ph="SELECT pa.pr... ${DB_PREFIX}" />
+            <marker date="1518087351695" expanded="true" signature="5342:5914" ph="SELECT a.att... ${DB_PREFIX}" />
+          </folding>
         </state>
       </provider>
     </entry>

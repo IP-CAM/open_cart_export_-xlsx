@@ -59,13 +59,9 @@ class ControllerToolExportAttr extends Controller
         $data['save'] = $this->url->link('tool/export_attr/index', 'token=' . $this->session->data['token'], 'SSL');
 
 
-        //$data['session_id_group'] =  $this->session->data['attribute_groups'];
-
         $data['get_group_atributes'] = $this->getGroupAtributeForSelect();
 
         $data['group_atributes_id'] =  $this->getAttributesGroup();
-
-
 
         $this->response->setOutput($this->load->view('tool/export_attr.tpl', $data));
     }
@@ -76,25 +72,22 @@ class ControllerToolExportAttr extends Controller
         return $this->model_tool_export_attr->selectGroupAtribute();
     }
 
-public function getAttributesGroup()
-{
+    public function getAttributesGroup()
+    {
+        if ($this->request->server['REQUEST_METHOD'] == 'POST') {
 
-    if ($this->request->server['REQUEST_METHOD'] == 'POST') {
+            $this->load->model('tool/export_attr');
 
-        $this->load->model('tool/export_attr');
+           // return $this->model_tool_export_attr->selectGroupAttrId((int) $this->request->post['attribute_group_id']);
+            return[
+                'session' =>  $this->session->data['attribute_groups'] = $this->request->post['attribute_group_id'],
+                'atributes' =>  $this->model_tool_export_attr->getAttributesGroupTbody((int) $this->request->post['attribute_group_id']),
+                //'atributes_data' =>  $this->model_tool_export_attr->getProductAttributes(42),
+                'atributes_group' =>  $this->model_tool_export_attr->selectGroupAttrThead((int) $this->request->post['attribute_group_id'])
+            ];
+        }
 
-       // return $this->model_tool_export_attr->selectGroupAttrId((int) $this->request->post['attribute_group_id']);
-        return[
-            'session' =>  $this->session->data['attribute_groups'] = $this->request->post['attribute_group_id'],
-            //'atributes_group' =>  $this->model_tool_export_attr->getAttributesGroup((int) $this->request->post['attribute_group_id'])
-            'atributes_group' =>  $this->model_tool_export_attr->selectGroupAttrId((int) $this->request->post['attribute_group_id'])
-        ];
-
-
-        //  SELECT attribute_group_id FROM oc_attribute_group_description WHERE name LIKE "Харак%"
     }
-
-}
 
 
 
