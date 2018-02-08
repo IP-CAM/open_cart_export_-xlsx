@@ -27,7 +27,7 @@ class ModelToolExportAttr extends Model {
                 AND a.attribute_group_id = '" . (int)$attribute_group_id . "'  
                 ORDER BY `pa`.`product_id`");
 
-        return $query->rows;
+        return $query->rows; 
     }
 
     /**

@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36f4ba52-d656-4d6a-ab6d-de906d470d51" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/upload/admin/controller/tool/export_attr.php" afterPath="$PROJECT_DIR$/upload/admin/controller/tool/export_attr.php" />
       <change beforePath="$PROJECT_DIR$/upload/admin/model/tool/export_attr.php" afterPath="$PROJECT_DIR$/upload/admin/model/tool/export_attr.php" />
-      <change beforePath="$PROJECT_DIR$/upload/admin/view/template/tool/export_attr.tpl" afterPath="$PROJECT_DIR$/upload/admin/view/template/tool/export_attr.tpl" />
-      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.currency.1518024988" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.language.1518024198" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.length_class.1.1518024198" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.order_status.1.1518027079" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.stock_status.1.1518024198" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.store.1518027729" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.tax_class.1518024198" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/storage/cache/cache.weight_class.1.1518024198" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/upload/system/storage/logs/error.log" afterPath="$PROJECT_DIR$/upload/system/storage/logs/error.log" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,17 +48,17 @@
       <file leaf-file-name="export_attr.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/upload/admin/model/tool/export_attr.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-68">
-              <caret line="32" column="4" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+            <state relative-caret-position="136">
+              <caret line="29" column="29" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
               <folding>
-                <marker date="1518087351695" expanded="true" signature="210:376" ph="SELECT attri... ${DB_PREFIX}" />
-                <marker date="1518087351695" expanded="true" signature="662:1095" ph="SELECT pa.at... ${DB_PREFIX}" />
-                <marker date="1518087351695" expanded="true" signature="662:1218" ph="SELECT pa.at... ${DB_PREFIX}" />
-                <marker date="1518087351695" expanded="true" signature="1541:1899" ph="SELECT a.att... ${DB_PREFIX}" />
-                <marker date="1518087351695" expanded="true" signature="2074:2615" ph="SELECT pa.at... ${DB_PREFIX}" />
-                <marker date="1518087351695" expanded="true" signature="2820:3459" ph="SELECT pa.pr... ${DB_PREFIX}" />
-                <marker date="1518087351695" expanded="true" signature="4491:5137" ph="SELECT pa.pr... ${DB_PREFIX}" />
-                <marker date="1518087351695" expanded="true" signature="5342:5914" ph="SELECT a.att... ${DB_PREFIX}" />
+                <marker date="1518087656013" expanded="true" signature="210:376" ph="SELECT attri... ${DB_PREFIX}" />
+                <marker date="1518087656013" expanded="true" signature="662:1095" ph="SELECT pa.at... ${DB_PREFIX}" />
+                <marker date="1518087656013" expanded="true" signature="662:1218" ph="SELECT pa.at... ${DB_PREFIX}" />
+                <marker date="1518087656013" expanded="true" signature="1542:1900" ph="SELECT a.att... ${DB_PREFIX}" />
+                <marker date="1518087656013" expanded="true" signature="2075:2616" ph="SELECT pa.at... ${DB_PREFIX}" />
+                <marker date="1518087656013" expanded="true" signature="2821:3460" ph="SELECT pa.pr... ${DB_PREFIX}" />
+                <marker date="1518087656013" expanded="true" signature="4492:5138" ph="SELECT pa.pr... ${DB_PREFIX}" />
+                <marker date="1518087656013" expanded="true" signature="5343:5915" ph="SELECT a.att... ${DB_PREFIX}" />
               </folding>
             </state>
           </provider>
@@ -127,9 +115,9 @@
         <option value="$PROJECT_DIR$/upload/catalog/controller/product/product.php" />
         <option value="$PROJECT_DIR$/upload/admin/view/template/catalog/product_form.tpl" />
         <option value="$PROJECT_DIR$/upload/catalog/view/theme/default/template/product/product.tpl" />
-        <option value="$PROJECT_DIR$/upload/admin/model/tool/export_attr.php" />
         <option value="$PROJECT_DIR$/upload/admin/controller/tool/export_attr.php" />
         <option value="$PROJECT_DIR$/upload/admin/view/template/tool/export_attr.tpl" />
+        <option value="$PROJECT_DIR$/upload/admin/model/tool/export_attr.php" />
       </list>
     </option>
   </component>
@@ -238,7 +226,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51499000" />
+    <option name="totallyTimeSpent" value="51524000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
@@ -410,14 +398,14 @@
         <state relative-caret-position="170">
           <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="40" />
           <folding>
-            <marker date="1518087351695" expanded="true" signature="210:376" ph="SELECT attri... ${DB_PREFIX}" />
-            <marker date="1518087351695" expanded="true" signature="662:1095" ph="SELECT pa.at... ${DB_PREFIX}" />
-            <marker date="1518087351695" expanded="true" signature="662:1218" ph="SELECT pa.at... ${DB_PREFIX}" />
-            <marker date="1518087351695" expanded="true" signature="1541:1899" ph="SELECT a.att... ${DB_PREFIX}" />
-            <marker date="1518087351695" expanded="true" signature="2074:2615" ph="SELECT pa.at... ${DB_PREFIX}" />
-            <marker date="1518087351695" expanded="true" signature="2820:3459" ph="SELECT pa.pr... ${DB_PREFIX}" />
-            <marker date="1518087351695" expanded="true" signature="4491:5137" ph="SELECT pa.pr... ${DB_PREFIX}" />
-            <marker date="1518087351695" expanded="true" signature="5342:5914" ph="SELECT a.att... ${DB_PREFIX}" />
+            <marker date="1518087656013" expanded="true" signature="210:376" ph="SELECT attri... ${DB_PREFIX}" />
+            <marker date="1518087656013" expanded="true" signature="662:1095" ph="SELECT pa.at... ${DB_PREFIX}" />
+            <marker date="1518087656013" expanded="true" signature="662:1218" ph="SELECT pa.at... ${DB_PREFIX}" />
+            <marker date="1518087656013" expanded="true" signature="1542:1900" ph="SELECT a.att... ${DB_PREFIX}" />
+            <marker date="1518087656013" expanded="true" signature="2075:2616" ph="SELECT pa.at... ${DB_PREFIX}" />
+            <marker date="1518087656013" expanded="true" signature="2821:3460" ph="SELECT pa.pr... ${DB_PREFIX}" />
+            <marker date="1518087656013" expanded="true" signature="4492:5138" ph="SELECT pa.pr... ${DB_PREFIX}" />
+            <marker date="1518087656013" expanded="true" signature="5343:5915" ph="SELECT a.att... ${DB_PREFIX}" />
           </folding>
         </state>
       </provider>
@@ -721,17 +709,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/upload/admin/model/tool/export_attr.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
-          <caret line="32" column="4" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+        <state relative-caret-position="136">
+          <caret line="29" column="29" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
           <folding>
-            <marker date="1518087351695" expanded="true" signature="210:376" ph="SELECT attri... ${DB_PREFIX}" />
-            <marker date="1518087351695" expanded="true" signature="662:1095" ph="SELECT pa.at... ${DB_PREFIX}" />
-            <marker date="1518087351695" expanded="true" signature="662:1218" ph="SELECT pa.at... ${DB_PREFIX}" />
-            <marker date="1518087351695" expanded="true" signature="1541:1899" ph="SELECT a.att... ${DB_PREFIX}" />
-            <marker date="1518087351695" expanded="true" signature="2074:2615" ph="SELECT pa.at... ${DB_PREFIX}" />
-            <marker date="1518087351695" expanded="true" signature="2820:3459" ph="SELECT pa.pr... ${DB_PREFIX}" />
-            <marker date="1518087351695" expanded="true" signature="4491:5137" ph="SELECT pa.pr... ${DB_PREFIX}" />
-            <marker date="1518087351695" expanded="true" signature="5342:5914" ph="SELECT a.att... ${DB_PREFIX}" />
+            <marker date="1518087656013" expanded="true" signature="210:376" ph="SELECT attri... ${DB_PREFIX}" />
+            <marker date="1518087656013" expanded="true" signature="662:1095" ph="SELECT pa.at... ${DB_PREFIX}" />
+            <marker date="1518087656013" expanded="true" signature="662:1218" ph="SELECT pa.at... ${DB_PREFIX}" />
+            <marker date="1518087656013" expanded="true" signature="1542:1900" ph="SELECT a.att... ${DB_PREFIX}" />
+            <marker date="1518087656013" expanded="true" signature="2075:2616" ph="SELECT pa.at... ${DB_PREFIX}" />
+            <marker date="1518087656013" expanded="true" signature="2821:3460" ph="SELECT pa.pr... ${DB_PREFIX}" />
+            <marker date="1518087656013" expanded="true" signature="4492:5138" ph="SELECT pa.pr... ${DB_PREFIX}" />
+            <marker date="1518087656013" expanded="true" signature="5343:5915" ph="SELECT a.att... ${DB_PREFIX}" />
           </folding>
         </state>
       </provider>
